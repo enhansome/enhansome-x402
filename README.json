@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -30,10 +30,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-11T20:36:21Z",
+                "last_commit": "2026-08-13T05:57:50Z",
                 "owner": "coinbase",
                 "repo": "x402",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -44,20 +44,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-11T20:36:21Z",
+                "last_commit": "2026-08-13T05:57:50Z",
                 "owner": "coinbase",
                 "repo": "x402",
-                "stars": 140
+                "stars": 141
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         }
       ],
@@ -74,10 +74,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -102,10 +102,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         }
       ],
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:16:08Z",
+            "last_commit": "2026-08-13T14:00:00Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -414,7 +414,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:16:08Z",
+            "last_commit": "2026-08-13T14:00:00Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -428,7 +428,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:40:52Z",
+            "last_commit": "2026-08-13T14:44:23Z",
             "owner": "Daisuke134",
             "repo": "life-manager",
             "stars": 5
@@ -456,7 +456,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:07:19Z",
+            "last_commit": "2026-08-13T13:51:42Z",
             "owner": "wyattpalm2-eng",
             "repo": "x402-seller",
             "stars": 2
@@ -582,7 +582,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:30:10Z",
+            "last_commit": "2026-08-13T06:56:17Z",
             "owner": "vbkotecha",
             "repo": "agentservices-api",
             "stars": 1
@@ -722,7 +722,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T05:54:26Z",
+            "last_commit": "2026-08-13T11:56:04Z",
             "owner": "sirenic-eu",
             "repo": "sirenic-examples",
             "stars": 0
@@ -1160,10 +1160,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -1259,7 +1259,7 @@
             "last_commit": "2026-07-13T10:50:49Z",
             "owner": "x402-rs",
             "repo": "x402-rs",
-            "stars": 285
+            "stars": 283
           }
         },
         {
@@ -1338,10 +1338,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-07-18T15:55:05Z",
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 97895
+            "stars": 97972
           }
         },
         {
@@ -1748,10 +1748,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -1762,10 +1762,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:36:21Z",
+            "last_commit": "2026-08-13T05:57:50Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -2121,7 +2121,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:16:08Z",
+            "last_commit": "2026-08-13T14:00:00Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -2373,7 +2373,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:19:16Z",
+            "last_commit": "2026-08-13T14:21:33Z",
             "owner": "RipperMercs",
             "repo": "tensorfeed",
             "stars": 2
@@ -2387,7 +2387,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:19:16Z",
+            "last_commit": "2026-08-13T14:21:33Z",
             "owner": "RipperMercs",
             "repo": "tensorfeed",
             "stars": 2
@@ -2899,10 +2899,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:14:29Z",
+            "last_commit": "2026-08-13T14:10:07Z",
             "owner": "agno-agi",
             "repo": "agno",
-            "stars": 41682
+            "stars": 41691
           }
         },
         {
@@ -2916,7 +2916,7 @@
             "last_commit": "2026-08-12T01:46:25Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 653
+            "stars": 655
           }
         },
         {
@@ -3222,10 +3222,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:09Z",
+            "last_commit": "2026-08-13T14:09:24Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 576
+            "stars": 581
           }
         },
         {
@@ -3322,10 +3322,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:29:45Z",
+            "last_commit": "2026-08-13T14:01:24Z",
             "owner": "pbakaus",
             "repo": "impeccable",
-            "stars": 58636
+            "stars": 58768
           }
         },
         {
@@ -3894,7 +3894,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495070
+            "stars": 495254
           }
         },
         {
@@ -3908,7 +3908,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7062
+            "stars": 7063
           }
         },
         {
@@ -3922,7 +3922,7 @@
             "last_commit": "2024-03-22T07:23:48Z",
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3622
+            "stars": 3621
           }
         },
         {
@@ -3986,7 +3986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:41:53.425Z",
+    "last_updated": "2026-08-13T14:47:40.918Z",
     "original_repository": "xpaysh/awesome-x402",
     "original_repository_sha": "c45d14ebabb4a696d28758901ee33b2b003d99ba",
     "enhanced_repository": "enhansome/enhansome-x402",
