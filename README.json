@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -30,10 +30,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T05:57:50Z",
+                "last_commit": "2026-08-14T13:17:06Z",
                 "owner": "coinbase",
                 "repo": "x402",
-                "stars": 141
+                "stars": 142
               }
             },
             {
@@ -44,20 +44,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T05:57:50Z",
+                "last_commit": "2026-08-14T13:17:06Z",
                 "owner": "coinbase",
                 "repo": "x402",
-                "stars": 141
+                "stars": 142
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         }
       ],
@@ -74,10 +74,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -102,10 +102,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         }
       ],
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T14:00:00Z",
+            "last_commit": "2026-08-14T14:33:01Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -372,10 +372,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T01:46:26Z",
+            "last_commit": "2026-08-14T02:34:38Z",
             "owner": "MiroShark",
             "repo": "MiroShark",
-            "stars": 1429
+            "stars": 1430
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2026-08-12T14:59:15Z",
             "owner": "Xquik-dev",
             "repo": "tweetclaw",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -414,7 +414,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T14:00:00Z",
+            "last_commit": "2026-08-14T14:33:01Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -428,7 +428,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T14:44:23Z",
+            "last_commit": "2026-08-14T14:40:02Z",
             "owner": "Daisuke134",
             "repo": "life-manager",
             "stars": 5
@@ -456,7 +456,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:51:42Z",
+            "last_commit": "2026-08-14T13:47:52Z",
             "owner": "wyattpalm2-eng",
             "repo": "x402-seller",
             "stars": 2
@@ -540,7 +540,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T06:30:58Z",
+            "last_commit": "2026-08-14T13:47:24Z",
             "owner": "ucsandman",
             "repo": "sentinel-api",
             "stars": 1
@@ -842,6 +842,20 @@
         },
         {
           "node_type": "item",
+          "title": "x402 inference gateway",
+          "description": "OpenAI-compatible LLM chat completions for AI agents, paid per request in USDC on Base mainnet via the Coinbase CDP facilitator (Bazaar-indexed). x402 v2 scheme: authorize a ceiling derived from , get billed actual token usage at upstream cost + 4% — from $0.001/call. 8 models (gpt-5.4-nano/mini, gpt-5.4, gpt-5.5, gpt-4o and gpt-4.1 families). No API key, no signup: point any OpenAI client at the URL. Billing transparency headers (, ) on every response; daily on-chain canary. Self-serve integration doc at GET /. (GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T22:17:34Z",
+            "owner": "sebboseb",
+            "repo": "agent",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "fry.farm x402 Agentic Actions",
           "description": "15 pay-per-call USDC endpoints on Algorand mainnet: DeFi/DePIN data + non-custodial transaction builders (staking, LP farming, NFT mint, P2P). Unsigned atomic groups — agents sign with their own wallet. (Catalog | MCP)",
           "children": [],
@@ -960,12 +974,6 @@
           "node_type": "item",
           "title": "krewe",
           "description": "Decentralized AI inference network on Base. Each call is fanned out to 3 independent miner nodes; 2-of-3 byte-equal consensus is required before the result settles. 4 pay-per-call endpoints: ($0.005, entity/email/date extraction), ($0.01, sentence embeddings), ($0.02, fetch + clean URL payload), ($0.05, quantized SLM completion via Qwen2.5-0.5B-Instruct). Settlement via EIP-3009 , gas paid by the orchestrator (~$0.001 on Base) and recovered from the payment. No API keys, no signup. Live consensus events stream at /v2/live WebSocket. (SDK) (Orchestrator) (Miner)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "x402 inference gateway",
-          "description": "OpenAI-compatible LLM chat completions for AI agents, paid per request in USDC on Base mainnet via the Coinbase CDP facilitator (Bazaar-indexed). x402 v2 scheme: authorize a ceiling derived from , get billed actual token usage at upstream cost + 4% — from $0.001/call. 8 models (gpt-5.4-nano/mini, gpt-5.4, gpt-5.5, gpt-4o and gpt-4.1 families). No API key, no signup: point any OpenAI client at the URL. Billing transparency headers (, ) on every response; daily on-chain canary. Self-serve integration doc at GET /. (GitHub)",
           "children": []
         },
         {
@@ -1160,10 +1168,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -1338,10 +1346,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -1389,7 +1397,7 @@
             "last_commit": "2026-07-18T15:55:05Z",
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 97972
+            "stars": 98108
           }
         },
         {
@@ -1748,10 +1756,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -1762,10 +1770,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:57:50Z",
+            "last_commit": "2026-08-14T13:17:06Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -1945,7 +1953,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-09T06:56:07Z",
+            "last_commit": "2026-08-14T13:10:59Z",
             "owner": "kindrat86",
             "repo": "agentmail",
             "stars": 1
@@ -2096,7 +2104,7 @@
             "last_commit": "2026-08-12T14:59:15Z",
             "owner": "Xquik-dev",
             "repo": "tweetclaw",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -2121,7 +2129,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T14:00:00Z",
+            "last_commit": "2026-08-14T14:33:01Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -2373,7 +2381,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:21:33Z",
+            "last_commit": "2026-08-14T14:37:38Z",
             "owner": "RipperMercs",
             "repo": "tensorfeed",
             "stars": 2
@@ -2387,7 +2395,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:21:33Z",
+            "last_commit": "2026-08-14T14:37:38Z",
             "owner": "RipperMercs",
             "repo": "tensorfeed",
             "stars": 2
@@ -2899,10 +2907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:10:07Z",
+            "last_commit": "2026-08-14T14:36:03Z",
             "owner": "agno-agi",
             "repo": "agno",
-            "stars": 41691
+            "stars": 41708
           }
         },
         {
@@ -2916,7 +2924,7 @@
             "last_commit": "2026-08-12T01:46:25Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 655
+            "stars": 660
           }
         },
         {
@@ -3009,7 +3017,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-11T20:42:57Z",
+            "last_commit": "2026-08-14T14:27:06Z",
             "owner": "cascade-protocol",
             "repo": "x402-proxy",
             "stars": 10
@@ -3222,10 +3230,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:09:24Z",
+            "last_commit": "2026-08-14T04:02:45Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 581
+            "stars": 587
           }
         },
         {
@@ -3322,10 +3330,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T14:01:24Z",
+            "last_commit": "2026-08-14T14:40:04Z",
             "owner": "pbakaus",
             "repo": "impeccable",
-            "stars": 58768
+            "stars": 59056
           }
         },
         {
@@ -3381,7 +3389,7 @@
             "last_commit": "2026-05-21T19:56:28Z",
             "owner": "coinnect-dev",
             "repo": "coinnect",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -3894,7 +3902,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495254
+            "stars": 495642
           }
         },
         {
@@ -3908,7 +3916,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7063
+            "stars": 7066
           }
         },
         {
@@ -3986,7 +3994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:47:40.918Z",
+    "last_updated": "2026-08-14T14:42:23.280Z",
     "original_repository": "xpaysh/awesome-x402",
     "original_repository_sha": "c45d14ebabb4a696d28758901ee33b2b003d99ba",
     "enhanced_repository": "enhansome/enhansome-x402",
