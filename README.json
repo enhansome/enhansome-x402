@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -30,7 +30,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T13:17:06Z",
+                "last_commit": "2026-08-14T15:32:02Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 142
@@ -44,7 +44,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T13:17:06Z",
+                "last_commit": "2026-08-14T15:32:02Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 142
@@ -54,7 +54,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -74,7 +74,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -88,7 +88,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -102,7 +102,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -127,7 +127,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:33:01Z",
+            "last_commit": "2026-08-15T03:52:23Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -414,7 +414,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:33:01Z",
+            "last_commit": "2026-08-15T03:52:23Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -428,10 +428,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:40:02Z",
+            "last_commit": "2026-08-15T13:59:05Z",
             "owner": "Daisuke134",
             "repo": "life-manager",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -450,13 +450,27 @@
         },
         {
           "node_type": "item",
+          "title": "anchor-x402",
+          "description": "16 x402-paid services for AI agents on Base + Solana mainnet. 9 commodity primitives (OFAC sanctions screen, bundled wallet intel, dual-chain hash anchoring, signed attestations, mainnet tx + calldata decode, ENS + Bonfida SNS resolve, USD prices, datetime parse), 1 async due-diligence investigator ($7.77, 5–10 min, signed markdown report + dual-chain anchor proof), 1 verifiable signed RNG (, drop-in VRF for game studios), and 5 universal LLM endpoints (roast, oracle with on-chain anchored verdict, tldr, aura, grade). Plus a hosted chatbot at chat.anchor-x402.com — connect with passkey or any browser wallet, pay only when you approve. MCP server: . (GitHub) (Discovery) (Trust portal)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:04:10Z",
+            "owner": "hypeprinter007-stack",
+            "repo": "anchor-x402",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "x402-seller",
           "description": "Decision-ready crypto market + on-chain intelligence for AI agents. 13 keyless pay-per-call endpoints on Base mainnet (no account, no API key): verdict-first ANSWER endpoints — (one-call token due-diligence → clear/caution/avoid), (market regime → risk_on/off), (batch rug-check up to 8 tokens, sorted safest-first) — plus rug/honeypot safety with green+red flags, perp funding/OI, DEX pools, new launches, prices, and stocks. $0.001–$0.03 USDC. Redundant keyless facilitators (no CDP key needed). (OpenAPI | Discovery | llms.txt | GitHub)",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:47:52Z",
+            "last_commit": "2026-08-15T13:01:47Z",
             "owner": "wyattpalm2-eng",
             "repo": "x402-seller",
             "stars": 2
@@ -487,20 +501,6 @@
             "last_commit": "2026-05-04T16:34:45Z",
             "owner": "openpulsechain",
             "repo": "public",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anchor-x402",
-          "description": "16 x402-paid services for AI agents on Base + Solana mainnet. 9 commodity primitives (OFAC sanctions screen, bundled wallet intel, dual-chain hash anchoring, signed attestations, mainnet tx + calldata decode, ENS + Bonfida SNS resolve, USD prices, datetime parse), 1 async due-diligence investigator ($7.77, 5–10 min, signed markdown report + dual-chain anchor proof), 1 verifiable signed RNG (, drop-in VRF for game studios), and 5 universal LLM endpoints (roast, oracle with on-chain anchored verdict, tldr, aura, grade). Plus a hosted chatbot at chat.anchor-x402.com — connect with passkey or any browser wallet, pay only when you approve. MCP server: . (GitHub) (Discovery) (Trust portal)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T19:04:10Z",
-            "owner": "hypeprinter007-stack",
-            "repo": "anchor-x402",
             "stars": 2
           }
         },
@@ -540,7 +540,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:47:24Z",
+            "last_commit": "2026-08-14T20:30:39Z",
             "owner": "ucsandman",
             "repo": "sentinel-api",
             "stars": 1
@@ -582,7 +582,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:56:17Z",
+            "last_commit": "2026-08-15T08:00:25Z",
             "owner": "vbkotecha",
             "repo": "agentservices-api",
             "stars": 1
@@ -1168,7 +1168,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -1346,7 +1346,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -1397,7 +1397,7 @@
             "last_commit": "2026-07-18T15:55:05Z",
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 98108
+            "stars": 98263
           }
         },
         {
@@ -1756,7 +1756,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -1770,7 +1770,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:17:06Z",
+            "last_commit": "2026-08-14T15:32:02Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 142
@@ -1855,7 +1855,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:12:49Z",
+            "last_commit": "2026-08-15T04:50:05Z",
             "owner": "aeoess",
             "repo": "agent-passport-system",
             "stars": 40
@@ -1953,7 +1953,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T13:10:59Z",
+            "last_commit": "2026-08-15T13:17:55Z",
             "owner": "kindrat86",
             "repo": "agentmail",
             "stars": 1
@@ -2063,22 +2063,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Spraay Compute & Futures",
-          "description": "GPU compute and AI model inference (LLM, image, video, speech-to-text, text-to-speech, embeddings) over x402, plus prepaid compute-futures credits with tier discounts up to 15% — deposit USDC once and draw down per job. USDC on Base + Solana, no API keys. Installable as an OpenClaw/Claude Code skill via npx clawhub install spraay-compute. Part of the Spraay x402 gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-02T00:16:51Z",
-            "owner": "plagtech",
-            "repo": "spraay-compute",
-            "stars": 1
-          }
+          "title": "GPU-Bridge",
+          "description": "30-service GPU inference API with native x402 payments (USDC on Base L2). LLM, image generation, embeddings, STT, TTS, PDF processing — all in one API. Agents pay per call with no human intervention. /usr/bin/bash.00002/embedding, /usr/bin/bash.001/LLM call. (Docs) (GitHub)",
+          "children": []
         },
         {
           "node_type": "item",
-          "title": "GPU-Bridge",
-          "description": "30-service GPU inference API with native x402 payments (USDC on Base L2). LLM, image generation, embeddings, STT, TTS, PDF processing — all in one API. Agents pay per call with no human intervention. /usr/bin/bash.00002/embedding, /usr/bin/bash.001/LLM call. (Docs) (GitHub)",
+          "title": "Spraay Compute & Futures",
+          "description": "GPU compute and AI model inference (LLM, image, video, speech-to-text, text-to-speech, embeddings) over x402, plus prepaid compute-futures credits with tier discounts up to 15% — deposit USDC once and draw down per job. USDC on Base + Solana, no API keys. Installable as an OpenClaw/Claude Code skill via npx clawhub install spraay-compute. Part of the Spraay x402 gateway.",
           "children": []
         },
         {
@@ -2129,7 +2121,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:33:01Z",
+            "last_commit": "2026-08-15T03:52:23Z",
             "owner": "MikeyPetrillo",
             "repo": "Agent402",
             "stars": 8
@@ -2745,7 +2737,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T18:37:26Z",
+            "last_commit": "2026-08-14T19:46:06Z",
             "owner": "hypeprinter007-stack",
             "repo": "anchor-x402-mcp",
             "stars": 1
@@ -2907,10 +2899,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:36:03Z",
+            "last_commit": "2026-08-14T21:05:59Z",
             "owner": "agno-agi",
             "repo": "agno",
-            "stars": 41708
+            "stars": 41722
           }
         },
         {
@@ -2924,7 +2916,7 @@
             "last_commit": "2026-08-12T01:46:25Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 660
+            "stars": 663
           }
         },
         {
@@ -2966,7 +2958,7 @@
             "last_commit": "2026-05-13T04:23:02Z",
             "owner": "mrocker",
             "repo": "CardZero",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -3233,7 +3225,7 @@
             "last_commit": "2026-08-14T04:02:45Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 587
+            "stars": 593
           }
         },
         {
@@ -3330,10 +3322,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:40:04Z",
+            "last_commit": "2026-08-15T11:32:54Z",
             "owner": "pbakaus",
             "repo": "impeccable",
-            "stars": 59056
+            "stars": 59319
           }
         },
         {
@@ -3902,7 +3894,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495642
+            "stars": 495995
           }
         },
         {
@@ -3916,7 +3908,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7066
+            "stars": 7067
           }
         },
         {
@@ -3930,7 +3922,7 @@
             "last_commit": "2024-03-22T07:23:48Z",
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3621
+            "stars": 3622
           }
         },
         {
@@ -3969,7 +3961,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-08T16:34:36Z",
+            "last_commit": "2026-08-14T15:15:20Z",
             "owner": "eltociear",
             "repo": "awesome-molt-ecosystem",
             "stars": 61
@@ -3994,7 +3986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:42:23.280Z",
+    "last_updated": "2026-08-15T14:03:19.616Z",
     "original_repository": "xpaysh/awesome-x402",
     "original_repository_sha": "c45d14ebabb4a696d28758901ee33b2b003d99ba",
     "enhanced_repository": "enhansome/enhansome-x402",
