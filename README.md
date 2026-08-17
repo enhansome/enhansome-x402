@@ -1710,6 +1710,8 @@ Connect with the x402 community.
 
 * [RepoPulse](https://repo-pulse.dvd90.workers.dev) - Deterministic 0–100 health score for any public GitHub repository, with a nine-signal breakdown (commit recency, release cadence, issue hygiene, PR flow, bus factor, CI, tests, docs, dependency freshness), A–F grade and flags. $0.01 USDC on Base, no account or key. Bazaar-discoverable and MCP-ready. ([GitHub](https://github.com/dvd90/repo-pulse) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-18)
 
+* [Colombia TRM](https://x402.lagaceta.net/trm) - Official Superintendencia Financiera USD/COP TRM as a prepaid x402 JSON API. $0.005 USDC per call on Base, no account or API key. ([Discovery](https://x402.lagaceta.net/.well-known/x402) | [OpenAPI](https://x402.lagaceta.net/openapi.json))
+
 ### Charity & Social Impact
 
 * [x402 Charity](https://allscale-io.github.io/x402charity/) - Open-source middleware for automatic micro-donations via x402. Embed charitable giving into any payment flow — trades, API calls, subscriptions. $0.0001 USDC per event on Base. CLI + web widget. Built by [AllScale Lab](https://allscale.io). ([GitHub](https://github.com/allscale-io/x402charity) ⭐ 2 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-11)
