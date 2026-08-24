@@ -488,7 +488,7 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:26:09Z",
+                "last_commit": "2026-08-24T14:58:42Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
@@ -1861,7 +1861,7 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 99669
+                "stars": 99674
               }
             },
             {
@@ -2236,7 +2236,7 @@
             "archived": false,
             "id": 1198741568,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:18:28Z",
+            "last_commit": "2026-08-24T14:36:06Z",
             "owner": "cammac-creator",
             "repo": "ibanforge",
             "stars": 3
@@ -3518,7 +3518,7 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:26:09Z",
+                "last_commit": "2026-08-24T14:58:42Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
@@ -3838,7 +3838,7 @@
                 "last_commit": "2026-08-24T03:26:27Z",
                 "owner": "pbakaus",
                 "repo": "impeccable",
-                "stars": 62136
+                "stars": 62146
               }
             },
             {
@@ -4127,7 +4127,7 @@
                 "archived": false,
                 "id": 1176569250,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:32:08Z",
+                "last_commit": "2026-08-24T14:34:06Z",
                 "owner": "whiteknightonhorse",
                 "repo": "APIbase",
                 "stars": 8
@@ -4202,7 +4202,7 @@
                 "archived": false,
                 "id": 1198741568,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:18:28Z",
+                "last_commit": "2026-08-24T14:36:06Z",
                 "owner": "cammac-creator",
                 "repo": "ibanforge",
                 "stars": 3
@@ -4825,7 +4825,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499518
+            "stars": 499526
           }
         },
         {
@@ -4960,7 +4960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:31.742Z",
+    "last_updated": "2026-08-24T15:07:21.022Z",
     "original_repository": "xpaysh/awesome-x402",
     "original_repository_id": 1088095777,
     "original_repository_sha": "c45d14ebabb4a696d28758901ee33b2b003d99ba",
