@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:28:28Z",
+            "last_commit": "2026-08-24T21:41:45Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -32,7 +32,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -47,7 +47,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -58,7 +58,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:28:28Z",
+            "last_commit": "2026-08-24T21:41:45Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -79,7 +79,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:28:28Z",
+            "last_commit": "2026-08-24T21:41:45Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -94,7 +94,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:28:28Z",
+            "last_commit": "2026-08-24T21:41:45Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -109,7 +109,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:28:28Z",
+            "last_commit": "2026-08-24T21:41:45Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -169,7 +169,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -316,7 +316,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:18:39Z",
+                "last_commit": "2026-08-25T05:56:59Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -331,7 +331,7 @@
                 "archived": false,
                 "id": 1171031623,
                 "language": "HTML",
-                "last_commit": "2026-08-21T05:08:15Z",
+                "last_commit": "2026-08-24T18:13:51Z",
                 "owner": "Deesmo",
                 "repo": "Arch-AI-Tools",
                 "stars": 1
@@ -443,10 +443,10 @@
                 "archived": false,
                 "id": 1187458557,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:55:28Z",
+                "last_commit": "2026-08-24T16:00:41Z",
                 "owner": "MiroShark",
                 "repo": "MiroShark",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -458,7 +458,7 @@
                 "archived": false,
                 "id": 1180792440,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:25:36Z",
+                "last_commit": "2026-08-24T18:41:21Z",
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
@@ -488,7 +488,7 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:58:42Z",
+                "last_commit": "2026-08-25T06:17:31Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
@@ -503,7 +503,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:18:39Z",
+                "last_commit": "2026-08-25T05:56:59Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -533,7 +533,7 @@
                 "archived": false,
                 "id": 1304599270,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:16:53Z",
+                "last_commit": "2026-08-25T05:28:18Z",
                 "owner": "wyattpalm2-eng",
                 "repo": "x402-seller",
                 "stars": 3
@@ -833,7 +833,7 @@
                 "archived": false,
                 "id": 1303745897,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:19:04Z",
+                "last_commit": "2026-08-25T05:44:20Z",
                 "owner": "sirenic-eu",
                 "repo": "sirenic-examples",
                 "stars": 0
@@ -1198,7 +1198,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:18:39Z",
+                "last_commit": "2026-08-25T05:56:59Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -1318,7 +1318,7 @@
                 "archived": false,
                 "id": 1283853020,
                 "language": "JavaScript",
-                "last_commit": "2026-06-29T10:26:29Z",
+                "last_commit": "2026-08-25T04:56:05Z",
                 "owner": "kaditang",
                 "repo": "agent-payment-guard",
                 "stars": 0
@@ -1458,7 +1458,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:18:39Z",
+                "last_commit": "2026-08-25T05:56:59Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -1518,7 +1518,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -1555,7 +1555,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -1656,7 +1656,7 @@
             "archived": false,
             "id": 1045991131,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:53:08Z",
+            "last_commit": "2026-08-24T17:05:53Z",
             "owner": "Floe-Labs",
             "repo": "floe-mcp-server",
             "stars": 4
@@ -1806,7 +1806,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -1861,7 +1861,7 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 99674
+                "stars": 99779
               }
             },
             {
@@ -2150,7 +2150,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -2165,7 +2165,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -2236,10 +2236,25 @@
             "archived": false,
             "id": 1198741568,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:36:06Z",
+            "last_commit": "2026-08-24T18:39:50Z",
             "owner": "cammac-creator",
             "repo": "ibanforge",
             "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIIM — AI Instant Messenger",
+          "description": "A persistent AIM-style world where AI agents keep an identity, chat in rooms, outsource work on a labor Exchange, and build compounding reputation — humans can only spectate (faithful Win98 UI with a live game-engine world). x402 premium lanes in USDC on Base with direct on-chain settlement (pay → resend with , replay-proof, no custodian): sponsor a chat room $1/day, priority registration $0.25, wallet-to-wallet agent tips ≥$0.01 with receipts posted in chat. One agent key also verifies on 27 free data skills and pay-per-call GLM inference. (Agent Handbook) (x402 discovery) (MCP Registry) (GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1305865089,
+            "language": "JavaScript",
+            "last_commit": "2026-08-25T02:06:32Z",
+            "owner": "lordbasilaiassistant-sudo",
+            "repo": "AIIM",
+            "stars": 2
           }
         },
         {
@@ -2284,21 +2299,6 @@
             "last_commit": "2026-07-06T05:00:21Z",
             "owner": "Kevthetech143",
             "repo": "chain-signer",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AIIM — AI Instant Messenger",
-          "description": "A persistent AIM-style world where AI agents keep an identity, chat in rooms, outsource work on a labor Exchange, and build compounding reputation — humans can only spectate (faithful Win98 UI with a live game-engine world). x402 premium lanes in USDC on Base with direct on-chain settlement (pay → resend with , replay-proof, no custodian): sponsor a chat room $1/day, priority registration $0.25, wallet-to-wallet agent tips ≥$0.01 with receipts posted in chat. One agent key also verifies on 27 free data skills and pay-per-call GLM inference. (Agent Handbook) (x402 discovery) (MCP Registry) (GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1305865089,
-            "language": "JavaScript",
-            "last_commit": "2026-08-24T13:34:20Z",
-            "owner": "lordbasilaiassistant-sudo",
-            "repo": "AIIM",
             "stars": 1
           }
         },
@@ -2560,7 +2560,7 @@
                 "archived": false,
                 "id": 1180792440,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:25:36Z",
+                "last_commit": "2026-08-24T18:41:21Z",
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
@@ -2590,7 +2590,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:18:39Z",
+                "last_commit": "2026-08-25T05:56:59Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -2755,7 +2755,7 @@
                 "archived": false,
                 "id": 1211063062,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:03:48Z",
+                "last_commit": "2026-08-25T01:45:48Z",
                 "owner": "true-alter",
                 "repo": "sdk",
                 "stars": 2
@@ -2770,7 +2770,7 @@
                 "archived": false,
                 "id": 1211063062,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:03:48Z",
+                "last_commit": "2026-08-25T01:45:48Z",
                 "owner": "true-alter",
                 "repo": "sdk",
                 "stars": 2
@@ -2785,7 +2785,7 @@
                 "archived": false,
                 "id": 1152521266,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:36:54Z",
+                "last_commit": "2026-08-25T01:45:19Z",
                 "owner": "bnmbnmai",
                 "repo": "mcp-proxy",
                 "stars": 2
@@ -2890,7 +2890,7 @@
                 "archived": false,
                 "id": 1194791900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:24:22Z",
+                "last_commit": "2026-08-24T23:21:18Z",
                 "owner": "RipperMercs",
                 "repo": "tensorfeed",
                 "stars": 2
@@ -2905,7 +2905,7 @@
                 "archived": false,
                 "id": 1194791900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:24:22Z",
+                "last_commit": "2026-08-24T23:21:18Z",
                 "owner": "RipperMercs",
                 "repo": "tensorfeed",
                 "stars": 2
@@ -3392,10 +3392,10 @@
                 "archived": false,
                 "id": 488641606,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:07:37Z",
+                "last_commit": "2026-08-25T06:13:37Z",
                 "owner": "agno-agi",
                 "repo": "agno",
-                "stars": 41886
+                "stars": 41894
               }
             },
             {
@@ -3407,10 +3407,10 @@
                 "archived": false,
                 "id": 1172886754,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:28:05Z",
+                "last_commit": "2026-08-24T22:09:26Z",
                 "owner": "aeonfun",
                 "repo": "aeon",
-                "stars": 682
+                "stars": 687
               }
             },
             {
@@ -3425,7 +3425,7 @@
                 "last_commit": "2026-03-03T20:25:44Z",
                 "owner": "atxp-dev",
                 "repo": "atxp",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -3518,7 +3518,7 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:58:42Z",
+                "last_commit": "2026-08-25T06:17:31Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
@@ -3753,10 +3753,10 @@
                 "archived": false,
                 "id": 970157421,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:08:11Z",
+                "last_commit": "2026-08-24T16:27:36Z",
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 721
+                "stars": 723
               }
             },
             {
@@ -3813,7 +3813,7 @@
                 "archived": false,
                 "id": 1216511518,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:12:56Z",
+                "last_commit": "2026-08-25T04:23:37Z",
                 "owner": "bolyra",
                 "repo": "bolyra",
                 "stars": 0
@@ -3835,10 +3835,10 @@
                 "archived": false,
                 "id": 1097346685,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T03:26:27Z",
+                "last_commit": "2026-08-25T03:03:35Z",
                 "owner": "pbakaus",
                 "repo": "impeccable",
-                "stars": 62146
+                "stars": 62324
               }
             },
             {
@@ -4095,7 +4095,7 @@
                     "archived": false,
                     "id": 1152521266,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T13:36:54Z",
+                    "last_commit": "2026-08-25T01:45:19Z",
                     "owner": "bnmbnmai",
                     "repo": "mcp-proxy",
                     "stars": 2
@@ -4157,7 +4157,7 @@
                 "archived": false,
                 "id": 1202297702,
                 "language": "HTML",
-                "last_commit": "2026-05-03T12:41:01Z",
+                "last_commit": "2026-08-24T16:41:50Z",
                 "owner": "lordbasilaiassistant-sudo",
                 "repo": "x402-wiki",
                 "stars": 6
@@ -4202,7 +4202,7 @@
                 "archived": false,
                 "id": 1198741568,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:36:06Z",
+                "last_commit": "2026-08-24T18:39:50Z",
                 "owner": "cammac-creator",
                 "repo": "ibanforge",
                 "stars": 3
@@ -4631,7 +4631,7 @@
             "archived": false,
             "id": 1246085180,
             "language": "JavaScript",
-            "last_commit": "2026-07-14T02:39:24Z",
+            "last_commit": "2026-08-25T04:48:41Z",
             "owner": "bluetieroperations-create",
             "repo": "blackwall-mcp",
             "stars": 0
@@ -4666,7 +4666,7 @@
                 "last_commit": "2026-08-20T10:58:27Z",
                 "owner": "holistis",
                 "repo": "bug-bounty-intelligence-mcp",
-                "stars": 6
+                "stars": 7
               }
             }
           ],
@@ -4685,7 +4685,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -4707,7 +4707,7 @@
                 "archived": false,
                 "id": 1199736913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T23:28:28Z",
+                "last_commit": "2026-08-24T21:41:45Z",
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 147
@@ -4825,7 +4825,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499526
+            "stars": 499704
           }
         },
         {
@@ -4840,7 +4840,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7087
+            "stars": 7088
           }
         },
         {
@@ -4960,7 +4960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:21.022Z",
+    "last_updated": "2026-08-25T06:21:02.583Z",
     "original_repository": "xpaysh/awesome-x402",
     "original_repository_id": 1088095777,
     "original_repository_sha": "c45d14ebabb4a696d28758901ee33b2b003d99ba",
