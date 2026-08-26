@@ -276,7 +276,7 @@
                 "last_commit": "2026-07-13T10:50:49Z",
                 "owner": "x402-rs",
                 "repo": "x402-rs",
-                "stars": 286
+                "stars": 287
               }
             }
           ],
@@ -316,7 +316,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:11:38Z",
+                "last_commit": "2026-08-26T14:13:58Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -458,7 +458,7 @@
                 "archived": false,
                 "id": 1180792440,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:41:21Z",
+                "last_commit": "2026-08-25T21:17:59Z",
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
@@ -488,7 +488,7 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:28:40Z",
+                "last_commit": "2026-08-26T14:29:50Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
@@ -503,7 +503,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:11:38Z",
+                "last_commit": "2026-08-26T14:13:58Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -533,7 +533,7 @@
                 "archived": false,
                 "id": 1304599270,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T13:46:50Z",
+                "last_commit": "2026-08-26T13:25:50Z",
                 "owner": "wyattpalm2-eng",
                 "repo": "x402-seller",
                 "stars": 3
@@ -563,7 +563,7 @@
                 "archived": false,
                 "id": 1233528599,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:16:15Z",
+                "last_commit": "2026-08-25T16:58:37Z",
                 "owner": "hypeprinter007-stack",
                 "repo": "anchor-x402",
                 "stars": 3
@@ -578,7 +578,7 @@
                 "archived": false,
                 "id": 1277088960,
                 "language": null,
-                "last_commit": "2026-08-16T16:32:01Z",
+                "last_commit": "2026-08-25T16:12:43Z",
                 "owner": "substreambc",
                 "repo": "my-agent",
                 "stars": 2
@@ -833,7 +833,7 @@
                 "archived": false,
                 "id": 1303745897,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:30:49Z",
+                "last_commit": "2026-08-25T17:16:42Z",
                 "owner": "sirenic-eu",
                 "repo": "sirenic-examples",
                 "stars": 0
@@ -1198,7 +1198,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:11:38Z",
+                "last_commit": "2026-08-26T14:13:58Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -1351,7 +1351,7 @@
                 "last_commit": "2026-08-25T10:40:45Z",
                 "owner": "lopushok9",
                 "repo": "Agent-Layer",
-                "stars": 25
+                "stars": 26
               }
             }
           ],
@@ -1370,10 +1370,10 @@
                 "archived": false,
                 "id": 629243152,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:20:44Z",
+                "last_commit": "2026-08-26T08:55:06Z",
                 "owner": "alloy-rs",
                 "repo": "alloy",
-                "stars": 1320
+                "stars": 1321
               }
             }
           ],
@@ -1458,7 +1458,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:11:38Z",
+                "last_commit": "2026-08-26T14:13:58Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -1656,7 +1656,7 @@
             "archived": false,
             "id": 1045991131,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:05:53Z",
+            "last_commit": "2026-08-26T03:33:04Z",
             "owner": "Floe-Labs",
             "repo": "floe-mcp-server",
             "stars": 4
@@ -1686,7 +1686,7 @@
             "archived": false,
             "id": 1262199392,
             "language": "Python",
-            "last_commit": "2026-06-07T17:42:34Z",
+            "last_commit": "2026-08-26T05:06:59Z",
             "owner": "chopmob-cloud",
             "repo": "AlgoVoi-Platform-Adapters",
             "stars": 1
@@ -1721,7 +1721,7 @@
                 "last_commit": "2026-07-13T10:50:49Z",
                 "owner": "x402-rs",
                 "repo": "x402-rs",
-                "stars": 286
+                "stars": 287
               }
             },
             {
@@ -1861,7 +1861,7 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 99930
+                "stars": 100670
               }
             },
             {
@@ -2236,7 +2236,7 @@
             "archived": false,
             "id": 1198741568,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T13:06:34Z",
+            "last_commit": "2026-08-26T14:30:02Z",
             "owner": "cammac-creator",
             "repo": "ibanforge",
             "stars": 3
@@ -2251,7 +2251,7 @@
             "archived": false,
             "id": 1305865089,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T13:32:44Z",
+            "last_commit": "2026-08-26T13:38:19Z",
             "owner": "lordbasilaiassistant-sudo",
             "repo": "AIIM",
             "stars": 2
@@ -2343,10 +2343,10 @@
                 "archived": false,
                 "id": 1161268529,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:53:33Z",
+                "last_commit": "2026-08-26T11:27:28Z",
                 "owner": "aeoess",
                 "repo": "agent-passport-system",
-                "stars": 41
+                "stars": 42
               }
             },
             {
@@ -2448,7 +2448,7 @@
                 "archived": false,
                 "id": 1283284086,
                 "language": "HTML",
-                "last_commit": "2026-08-22T13:15:41Z",
+                "last_commit": "2026-08-26T13:27:18Z",
                 "owner": "kindrat86",
                 "repo": "agentmail",
                 "stars": 1
@@ -2560,7 +2560,7 @@
                 "archived": false,
                 "id": 1180792440,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:41:21Z",
+                "last_commit": "2026-08-25T21:17:59Z",
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
@@ -2590,7 +2590,7 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:11:38Z",
+                "last_commit": "2026-08-26T14:13:58Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
@@ -2755,7 +2755,7 @@
                 "archived": false,
                 "id": 1211063062,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:59:55Z",
+                "last_commit": "2026-08-26T12:32:39Z",
                 "owner": "true-alter",
                 "repo": "sdk",
                 "stars": 2
@@ -2770,7 +2770,7 @@
                 "archived": false,
                 "id": 1211063062,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:59:55Z",
+                "last_commit": "2026-08-26T12:32:39Z",
                 "owner": "true-alter",
                 "repo": "sdk",
                 "stars": 2
@@ -2785,7 +2785,7 @@
                 "archived": false,
                 "id": 1152521266,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T01:45:19Z",
+                "last_commit": "2026-08-26T06:22:43Z",
                 "owner": "bnmbnmai",
                 "repo": "mcp-proxy",
                 "stars": 2
@@ -2890,7 +2890,7 @@
                 "archived": false,
                 "id": 1194791900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:21:18Z",
+                "last_commit": "2026-08-26T14:22:02Z",
                 "owner": "RipperMercs",
                 "repo": "tensorfeed",
                 "stars": 2
@@ -2905,7 +2905,7 @@
                 "archived": false,
                 "id": 1194791900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:21:18Z",
+                "last_commit": "2026-08-26T14:22:02Z",
                 "owner": "RipperMercs",
                 "repo": "tensorfeed",
                 "stars": 2
@@ -3265,7 +3265,7 @@
                 "archived": false,
                 "id": 1216411282,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T04:09:24Z",
+                "last_commit": "2026-08-25T23:06:41Z",
                 "owner": "0rkz",
                 "repo": "byte-mcp-server",
                 "stars": 1
@@ -3392,10 +3392,10 @@
                 "archived": false,
                 "id": 488641606,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:20:38Z",
+                "last_commit": "2026-08-26T13:56:49Z",
                 "owner": "agno-agi",
                 "repo": "agno",
-                "stars": 41909
+                "stars": 41934
               }
             },
             {
@@ -3407,10 +3407,10 @@
                 "archived": false,
                 "id": 1172886754,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T13:14:09Z",
+                "last_commit": "2026-08-26T13:15:21Z",
                 "owner": "aeonfun",
                 "repo": "aeon",
-                "stars": 691
+                "stars": 693
               }
             },
             {
@@ -3455,7 +3455,7 @@
                 "last_commit": "2026-05-13T04:23:02Z",
                 "owner": "mrocker",
                 "repo": "CardZero",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -3477,7 +3477,7 @@
                 "last_commit": "2026-08-04T17:46:39Z",
                 "owner": "google-agentic-commerce",
                 "repo": "a2a-x402",
-                "stars": 553
+                "stars": 554
               }
             }
           ],
@@ -3518,7 +3518,7 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:28:40Z",
+                "last_commit": "2026-08-26T14:29:50Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
@@ -3658,7 +3658,7 @@
                 "archived": false,
                 "id": 1307977481,
                 "language": "Python",
-                "last_commit": "2026-08-22T10:11:37Z",
+                "last_commit": "2026-08-25T15:52:30Z",
                 "owner": "tersignhq",
                 "repo": "evidence-record-conformance",
                 "stars": 1
@@ -3680,7 +3680,7 @@
                 "archived": false,
                 "id": 1242296232,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:45:32Z",
+                "last_commit": "2026-08-26T09:47:42Z",
                 "owner": "smartflowproai-lang",
                 "repo": "x402-endpoint-validator",
                 "stars": 2
@@ -3753,10 +3753,10 @@
                 "archived": false,
                 "id": 970157421,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:27:36Z",
+                "last_commit": "2026-08-25T23:08:48Z",
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 722
+                "stars": 723
               }
             },
             {
@@ -3813,7 +3813,7 @@
                 "archived": false,
                 "id": 1216511518,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T11:58:35Z",
+                "last_commit": "2026-08-26T01:02:39Z",
                 "owner": "bolyra",
                 "repo": "bolyra",
                 "stars": 0
@@ -3835,10 +3835,10 @@
                 "archived": false,
                 "id": 1097346685,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T12:17:18Z",
+                "last_commit": "2026-08-26T06:04:37Z",
                 "owner": "pbakaus",
                 "repo": "impeccable",
-                "stars": 62459
+                "stars": 62812
               }
             },
             {
@@ -4095,7 +4095,7 @@
                     "archived": false,
                     "id": 1152521266,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T01:45:19Z",
+                    "last_commit": "2026-08-26T06:22:43Z",
                     "owner": "bnmbnmai",
                     "repo": "mcp-proxy",
                     "stars": 2
@@ -4115,7 +4115,7 @@
                 "last_commit": "2026-07-31T15:58:41Z",
                 "owner": "Br0ski777",
                 "repo": "x402-agent-tools",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -4127,7 +4127,7 @@
                 "archived": false,
                 "id": 1176569250,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T11:26:33Z",
+                "last_commit": "2026-08-26T11:57:07Z",
                 "owner": "whiteknightonhorse",
                 "repo": "APIbase",
                 "stars": 8
@@ -4187,7 +4187,7 @@
                 "archived": false,
                 "id": 1182674240,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:25:05Z",
+                "last_commit": "2026-08-26T14:07:51Z",
                 "owner": "romudille-bit",
                 "repo": "agentpay",
                 "stars": 3
@@ -4202,7 +4202,7 @@
                 "archived": false,
                 "id": 1198741568,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T13:06:34Z",
+                "last_commit": "2026-08-26T14:30:02Z",
                 "owner": "cammac-creator",
                 "repo": "ibanforge",
                 "stars": 3
@@ -4367,7 +4367,7 @@
                 "archived": false,
                 "id": 1199616693,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T11:58:19Z",
+                "last_commit": "2026-08-26T07:50:51Z",
                 "owner": "zse4321",
                 "repo": "decision-anchor-sdk",
                 "stars": 1
@@ -4666,7 +4666,7 @@
                 "last_commit": "2026-08-20T10:58:27Z",
                 "owner": "holistis",
                 "repo": "bug-bounty-intelligence-mcp",
-                "stars": 7
+                "stars": 8
               }
             }
           ],
@@ -4825,7 +4825,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499809
+            "stars": 500105
           }
         },
         {
@@ -4840,7 +4840,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7086
+            "stars": 7088
           }
         },
         {
@@ -4870,7 +4870,7 @@
             "last_commit": "2026-08-25T11:28:26Z",
             "owner": "ahmet",
             "repo": "awesome-web3",
-            "stars": 887
+            "stars": 888
           }
         },
         {
@@ -4912,7 +4912,7 @@
             "archived": false,
             "id": 1197663348,
             "language": "Python",
-            "last_commit": "2026-08-25T10:01:27Z",
+            "last_commit": "2026-08-26T13:16:55Z",
             "owner": "Haustorium12",
             "repo": "gold-402",
             "stars": 11
@@ -4960,7 +4960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:31:01.057Z",
+    "last_updated": "2026-08-26T14:30:10.172Z",
     "original_repository": "xpaysh/awesome-x402",
     "original_repository_id": 1088095777,
     "original_repository_sha": "c45d14ebabb4a696d28758901ee33b2b003d99ba",
