@@ -2,7 +2,7 @@
 
 > ⚡ **The Ultimate x402 Resource Hub** - Everythng you need to build internet-native payments using HTTP 402. Perfect for AI agents, APIs, and micropayments. Build paywalls, monetize services, and enable autonomous agent payments with crypto/USDC. Zero fees, 2-second settlement.
 
-[![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402) ⭐ 285 | 🐛 385 | 📅 2026-07-28
+[![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402) ⭐ 285 | 🐛 387 | 📅 2026-07-28
 
 ## Contents
 
@@ -56,10 +56,10 @@ The x402 protocol enables instant Blockchain payments over HTTP using the 402 "P
 
 Core resources from the x402 protocol maintainers.
 
-* [x402 Protocol Specification](https://github.com/coinbase/x402) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Official open-source protocol implementation by Coinbase.
-* [Protocol Specifications](https://github.com/coinbase/x402/tree/main/specs) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Detailed technical specifications.
-  * [Payment Schemes](https://github.com/coinbase/x402/tree/main/specs/schemes) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Different payment flow types.
-  * [EVM Implementation](https://github.com/coinbase/x402/blob/main/specs/schemes/exact/scheme_exact_evm.md) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Ethereum Virtual Machine specifics.
+* [x402 Protocol Specification](https://github.com/coinbase/x402) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Official open-source protocol implementation by Coinbase.
+* [Protocol Specifications](https://github.com/coinbase/x402/tree/main/specs) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Detailed technical specifications.
+  * [Payment Schemes](https://github.com/coinbase/x402/tree/main/specs/schemes) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Different payment flow types.
+  * [EVM Implementation](https://github.com/coinbase/x402/blob/main/specs/schemes/exact/scheme_exact_evm.md) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Ethereum Virtual Machine specifics.
 * [x402 Foundation](https://x402.org) - Protocol foundation website with overview and documentation.
 * [x402 Whitepaper](https://x402.org/x402-whitepaper.pdf) - Technical deep dive into protocol architecture.
 * [Coinbase Developer Platform Docs](https://docs.cdp.coinbase.com/x402) - Complete implementation guide and API reference.
@@ -68,9 +68,9 @@ Core resources from the x402 protocol maintainers.
 
 Essential documentation for understanding and implementing x402.
 
-* [Payment Requirements Schema](https://github.com/coinbase/x402#payment-requirements) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - JSON structure for payment requests.
-* [Payment Payload Format](https://github.com/coinbase/x402#payment-payload) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Client payment submission format.
-* [Verification & Settlement](https://github.com/coinbase/x402#verification-and-settlement) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Payment validation process.
+* [Payment Requirements Schema](https://github.com/coinbase/x402#payment-requirements) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - JSON structure for payment requests.
+* [Payment Payload Format](https://github.com/coinbase/x402#payment-payload) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Client payment submission format.
+* [Verification & Settlement](https://github.com/coinbase/x402#verification-and-settlement) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Payment validation process.
 * [How x402 Works](https://docs.cdp.coinbase.com/x402/how-it-works) - Complete payment flow explanation with diagrams.
 * [EIP-3009 TransferWithAuthorization](https://eips.ethereum.org/EIPS/eip-3009) - Gasless transfer standard used by x402.
 * [HTTP 402 Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402) - The long-dormant HTTP status.
@@ -81,7 +81,7 @@ Get started with x402 in minutes.
 
 * 5-Minute Quickstart for Sellers - Accept your first payment.
 * [Buyer/Client Setup](https://docs.cdp.coinbase.com/x402/quickstart-buyers) - Make automated payments.
-* [One-Line Integration](https://github.com/coinbase/x402/tree/main/examples) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Add payment middleware in a single line of code.
+* [One-Line Integration](https://github.com/coinbase/x402/tree/main/examples) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Add payment middleware in a single line of code.
 * [Base Sepolia Testnet Setup](https://docs.cdp.coinbase.com/x402/network-support) - Get test USDC and start testing.
 * Production Deployment Checklist - Go live on Base mainnet.
 
@@ -91,19 +91,19 @@ Official and community implementations of the x402 protocol.
 
 ### Go
 
-* [coinbase/x402](https://github.com/coinbase/x402/tree/main/go) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 ⭐ **Official** - Complete Go implementation.
+* [coinbase/x402](https://github.com/coinbase/x402/tree/main/go) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 ⭐ **Official** - Complete Go implementation.
   * Core protocol types and utilities
   * Payment verification and settlement logic
   * Multi-chain support (Base, Base Sepolia, Ethereum, Solana)
 
 ### TypeScript/JavaScript
 
-* [x402-typescript](https://github.com/coinbase/x402/tree/main/typescript) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 ⭐ **Official** - Complete TypeScript implementation.
+* [x402-typescript](https://github.com/coinbase/x402/tree/main/typescript) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 ⭐ **Official** - Complete TypeScript implementation.
   * Core protocol types and utilities
   * Payment verification and settlement logic
   * Multi-chain support (Base, Base Sepolia, Ethereum, Solana)
 
-* [x402-express](https://github.com/coinbase/x402/tree/main/examples/typescript/servers/express) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Express.js middleware example.
+* [x402-express](https://github.com/coinbase/x402/tree/main/examples/typescript/servers/express) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Express.js middleware example.
 
 * [x402-data-api](https://github.com/155143783/x402-data-api) ⭐ 1 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-01 - HTTP 402 micro-payment data API with Base chain USDC payments. 16 developer data tools including email validation, DNS lookup, WHOIS, SSL check, and IP geolocation with x402 payment integration.
 
@@ -147,7 +147,7 @@ Real companies using x402 in production with proven scale and transaction volume
 
 * [GoldBean API](https://goldbean-api.xyz) — 146+ AI endpoints including Baidu OCR, Translation, TTS, LLM Chat with x402 micropayments on Base. From ### Production Success Metrics.01/call for premium AI. MCP server at [mcpize.com/mcp/goldbean](https://mcpize.com/mcp/goldbean). ([GitHub](https://github.com/wuzenghai616-lang/goldbean) ⭐ 1 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-30)
 
-* [ToolSnap MCP](https://mcp.toolsnap.app) — 28 context-efficient MCP tools for AI agents: web extraction, data processing, SEO, image processing. Flagship `fetch_extract` benchmarked at 98.1% token reduction (53,820 → 2,001 tokens, saving \~$0.156/call at Sonnet pricing). x402 v2 on Base with EIP-3009 `transferWithAuthorization`. Dual payment: pay-per-call $0.02 USDC or prepaid ($0.50 deposit → $0.01/call off-chain, no per-call gas, no 402 round-trip). 27 tools free, no API keys. Cloudflare Workers edge-native, 0ms cold start. Glama A rated. ([GitHub](https://github.com/icosaedro-git/toolsnap-mcp) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-26 | [Glama](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp))
+* [ToolSnap MCP](https://mcp.toolsnap.app) — 28 context-efficient MCP tools for AI agents: web extraction, data processing, SEO, image processing. Flagship `fetch_extract` benchmarked at 98.1% token reduction (53,820 → 2,001 tokens, saving \~$0.156/call at Sonnet pricing). x402 v2 on Base with EIP-3009 `transferWithAuthorization`. Dual payment: pay-per-call $0.02 USDC or prepaid ($0.50 deposit → $0.01/call off-chain, no per-call gas, no 402 round-trip). 27 tools free, no API keys. Cloudflare Workers edge-native, 0ms cold start. Glama A rated. ([GitHub](https://github.com/icosaedro-git/toolsnap-mcp) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-27 | [Glama](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp))
 
 * [MoneyMachine x402 Suite](https://github.com/itsmeadamdamroma/money-machine-x402) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31 - Agent-payable APIs on Base USDC: **GigRadar** (Superteam/r/forhire/HN/Freelancer gigs $0.15), **LightHouse-lite** web vitals ($0.12), **DocClerk** PDF field extract ($0.25), CrawlJudge ($0.03), Axe-lite a11y ($0.08), HTML scrape ($0.05). Self-facilitator, open source. PayTo `0x5Cc3c4E5020Ec3D81E392658eFe7b27966872CE7`.
 
@@ -155,7 +155,7 @@ Real companies using x402 in production with proven scale and transaction volume
 
 * [Denpyo — Japan Invoice & Receipt Reader](https://denpyo-api.hp-vladic.workers.dev) - OCR Japanese invoices (請求書) and receipts (領収書) into structured JSON — vendor, line items, 8%/10% consumption-tax breakdown — with the qualified-invoice registration number (T+13 digits) verified against Japan's National Tax Agency registry in the same call. $0.01-$0.04 USDC on Base & Solana. Failed analyses are not charged. MCP: `npx -y denpyo-mcp`. ([OpenAPI](https://denpyo-api.hp-vladic.workers.dev/openapi.json) | [llms.txt](https://denpyo-api.hp-vladic.workers.dev/llms.txt) | [GitHub](https://github.com/vladic-corp/denpyo-api) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-20)
 
-* [Lazaretto](https://lazaretto.dev) - Pre-install security verification for AI agent skills, tools, and npm packages. Free, no-key lockfile check: POST a `package-lock.json`, `yarn.lock`, or `pnpm-lock.yaml` and every pinned version is matched against published malicious-package advisories in one call, catching compromised releases like `chalk@5.6.1` and `@ledgerhq/connect-kit@1.1.6` while leaving their clean releases alone. Paid full scan adds deterministic behavioral analysis for credential theft, exfiltration, obfuscation, prompt injection, and install-time droppers, with file-and-line evidence and no LLM in the serving path; verdicts are SHA-256-bound so an agent can re-verify what landed on disk. $0.03 USDC on Base (x402) or prepaid bundles down to $0.016/scan. Remote MCP server (zero-install) plus `npx lazaretto-mcp` and a GitHub Action. ([OpenAPI](https://lazaretto.dev/openapi.json) | [Discovery](https://lazaretto.dev/.well-known/x402) | [Agent Card](https://lazaretto.dev/.well-known/agent-card.json) | [MCP](https://github.com/jamesdfinance-dev/lazaretto-mcp) ⭐ 0 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-26)
+* [Lazaretto](https://lazaretto.dev) - Pre-install security verification for AI agent skills, tools, and npm packages. Free, no-key lockfile check: POST a `package-lock.json`, `yarn.lock`, or `pnpm-lock.yaml` and every pinned version is matched against published malicious-package advisories in one call, catching compromised releases like `chalk@5.6.1` and `@ledgerhq/connect-kit@1.1.6` while leaving their clean releases alone. Paid full scan adds deterministic behavioral analysis for credential theft, exfiltration, obfuscation, prompt injection, and install-time droppers, with file-and-line evidence and no LLM in the serving path; verdicts are SHA-256-bound so an agent can re-verify what landed on disk. $0.03 USDC on Base (x402) or prepaid bundles down to $0.016/scan. Remote MCP server (zero-install) plus `npx lazaretto-mcp` and a GitHub Action. ([OpenAPI](https://lazaretto.dev/openapi.json) | [Discovery](https://lazaretto.dev/.well-known/x402) | [Agent Card](https://lazaretto.dev/.well-known/agent-card.json) | [MCP](https://github.com/jamesdfinance-dev/lazaretto-mcp) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27)
 
 * [Kaisha — Japan Company Registry API](https://kaisha-api.hp-vladic.workers.dev) - Official-registry data for all 5.76M Japanese corporations + 5.05M invoice registrations from National Tax Agency open data: resolve company names / corporate numbers (法人番号) to registry records, verify Japan invoice registration numbers (適格請求書/T+13-digit) against the NTA dataset, and compute Japanese business days & national holidays. $0.002–$0.01 USDC per call on Base & Solana via CDP facilitator. No API keys. MCP: `npx -y kaisha-mcp`. ([OpenAPI](https://kaisha-api.hp-vladic.workers.dev/openapi.json) | [llms.txt](https://kaisha-api.hp-vladic.workers.dev/llms.txt) | [Discovery](https://kaisha-api.hp-vladic.workers.dev/.well-known/x402) | [x402scan](https://www.x402scan.com/server/a3937fba-de2e-41e6-b57b-048132e91d0a) | [npm](https://www.npmjs.com/package/kaisha-mcp) | [GitHub](https://github.com/vladic-corp/kaisha-api))
 
@@ -246,7 +246,7 @@ Real companies using x402 in production with proven scale and transaction volume
 
 ### Data & Social APIs
 
-* [MiroShark](https://github.com/aaronjmars/MiroShark) ⭐ 1,439 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Universal swarm-intelligence engine exposed as a paid API: POST a scenario to the `/x402/run` surface and hundreds of grounded LLM personas simulate Twitter, Reddit, and a prediction market hour-by-hour, returning an analytical report. USDC on Base via x402. ([GitHub](https://github.com/aaronjmars/MiroShark) ⭐ 1,439 | 🐛 1 | 🌐 Python | 📅 2026-08-24)
+* [MiroShark](https://github.com/aaronjmars/MiroShark) ⭐ 1,441 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Universal swarm-intelligence engine exposed as a paid API: POST a scenario to the `/x402/run` surface and hundreds of grounded LLM personas simulate Twitter, Reddit, and a prediction market hour-by-hour, returning an analytical report. USDC on Base via x402. ([GitHub](https://github.com/aaronjmars/MiroShark) ⭐ 1,441 | 🐛 1 | 🌐 Python | 📅 2026-08-24)
 
 * [Xquik](https://xquik.com) - Real-time X (Twitter) data API with 7 MPP/x402 pay-per-use endpoints — tweet lookup, tweet search, user lookup, follower check, article extraction, media download, and trends. No accounts or subscriptions required. ([GitHub](https://github.com/Xquik-dev/tweetclaw) ⭐ 92 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-25) ([npm](https://www.npmjs.com/package/@xquik/tweetclaw)) ([MCP Server](https://xquik.com/mcp))
 
@@ -258,7 +258,7 @@ Real companies using x402 in production with proven scale and transaction volume
 
 * [glim.sh](https://glim.sh) - Live data from Twitter, Reddit, the web, GitHub, Amazon, and YouTube for AI agents. 11 MCP tools, $0.002-$0.015 USDC per call (Base/Solana/Monad). No API keys, no scraping stack. ([MCP Server](https://glim.sh/mcp)) ([OpenAPI](https://glim.sh/openapi.json)) ([GitHub](https://github.com/glim-sh/glim-mcp) ⭐ 4 | 🐛 0 | 📅 2026-08-11)
 
-* [anchor-x402](https://anchor-x402.com) - 16 x402-paid services for AI agents on Base + Solana mainnet. 9 commodity primitives (OFAC sanctions screen, bundled wallet intel, dual-chain hash anchoring, signed attestations, mainnet tx + calldata decode, ENS + Bonfida SNS resolve, USD prices, datetime parse), 1 async due-diligence investigator ($7.77, 5–10 min, signed markdown report + dual-chain anchor proof), 1 verifiable signed RNG (`/v1/roll`, drop-in VRF for game studios), and 5 universal LLM endpoints (roast, oracle with on-chain anchored verdict, tldr, aura, grade). Plus a hosted chatbot at [chat.anchor-x402.com](https://chat.anchor-x402.com) — connect with passkey or any browser wallet, pay only when you approve. MCP server: [`anchor-x402-mcp`](https://www.npmjs.com/package/anchor-x402-mcp). ([GitHub](https://github.com/hypeprinter007-stack/anchor-x402) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-08-25) ([Discovery](https://anchor-x402.com/.well-known/x402.json)) ([Trust portal](https://anchor-x402.com/trust))
+* [anchor-x402](https://anchor-x402.com) - 16 x402-paid services for AI agents on Base + Solana mainnet. 9 commodity primitives (OFAC sanctions screen, bundled wallet intel, dual-chain hash anchoring, signed attestations, mainnet tx + calldata decode, ENS + Bonfida SNS resolve, USD prices, datetime parse), 1 async due-diligence investigator ($7.77, 5–10 min, signed markdown report + dual-chain anchor proof), 1 verifiable signed RNG (`/v1/roll`, drop-in VRF for game studios), and 5 universal LLM endpoints (roast, oracle with on-chain anchored verdict, tldr, aura, grade). Plus a hosted chatbot at [chat.anchor-x402.com](https://chat.anchor-x402.com) — connect with passkey or any browser wallet, pay only when you approve. MCP server: [`anchor-x402-mcp`](https://www.npmjs.com/package/anchor-x402-mcp). ([GitHub](https://github.com/hypeprinter007-stack/anchor-x402) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-25) ([Discovery](https://anchor-x402.com/.well-known/x402.json)) ([Trust portal](https://anchor-x402.com/trust))
 
 * [x402-seller](https://x402-seller-m8nx.onrender.com) - Decision-ready crypto market + on-chain intelligence for AI agents. 13 keyless pay-per-call endpoints on Base mainnet (no account, no API key): verdict-first ANSWER endpoints — `/vet` (one-call token due-diligence → clear/caution/avoid), `/brief` (market regime → risk\_on/off), `/screen` (batch rug-check up to 8 tokens, sorted safest-first) — plus rug/honeypot safety with green+red flags, perp funding/OI, DEX pools, new launches, prices, and stocks. $0.001–$0.03 USDC. Redundant keyless facilitators (no CDP key needed). ([OpenAPI](https://x402-seller-m8nx.onrender.com/openapi.json) | [Discovery](https://x402-seller-m8nx.onrender.com/.well-known/x402.json) | [llms.txt](https://x402-seller-m8nx.onrender.com/llms.txt) | [GitHub](https://github.com/wyattpalm2-eng/x402-seller) ⭐ 3 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-27)
 
@@ -615,7 +615,7 @@ Client libraries for making x402 payments.
 
 ### Rust
 
-* [alloy](https://github.com/alloy-rs/alloy) ⭐ 1,321 | 🐛 137 | 🌐 Rust | 📅 2026-08-26 - High-performance Ethereum library.
+* [alloy](https://github.com/alloy-rs/alloy) ⭐ 1,322 | 🐛 137 | 🌐 Rust | 📅 2026-08-26 - High-performance Ethereum library.
 
 ## 🔧 Server Frameworks & Middleware
 
@@ -648,7 +648,7 @@ Server-side integrations for accepting x402 payments.
 
 **Next.js**
 
-* [Next.js route protection](https://github.com/coinbase/x402/tree/main/examples/typescript/fullstack/next) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Complete app example.
+* [Next.js route protection](https://github.com/coinbase/x402/tree/main/examples/typescript/fullstack/next) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Complete app example.
 * [x402-next](https://www.npmjs.com/package/x402-next) - App Router middleware.
 * Mainnet production example - Base mainnet ready.
 
@@ -661,12 +661,12 @@ Server-side integrations for accepting x402 payments.
 
 **FastAPI**
 
-* [FastAPI example](https://github.com/coinbase/x402/tree/main/examples/python) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Complete implementation.
+* [FastAPI example](https://github.com/coinbase/x402/tree/main/examples/python) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Complete implementation.
 * [x402-agent-monetizer](https://github.com/minhthai1995/x402-agent-monetizer) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-05-17 ⭐ **Community** - Drop-in `@paywall` decorator for FastAPI. One decorator gates any endpoint behind USDC on Base. Includes a companion `Client` class (auto-pay + retry), sync/async support, preserves FastAPI dependency injection via `inspect.signature.replace()`. MIT, Python 3.10+, 3 passing tests.
 
 **Client Libraries**
 
-* [Routeweiler](https://github.com/nikoSchoinas/routeweiler-python-sdk) ⭐ 31 | 🐛 3 | 🌐 Python | 📅 2026-07-26 — Python micropayment client for autonomous agents that auto-handles HTTP 402 across x402, L402, MPP-Tempo, and Stripe SPT. Enforces policy & budget, and produces payment traces for auditing. ([PyPI](https://pypi.org/project/routeweiler/))
+* [Routeweiler](https://github.com/nikoSchoinas/routeweiler-python-sdk) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-26 — Python micropayment client for autonomous agents that auto-handles HTTP 402 across x402, L402, MPP-Tempo, and Stripe SPT. Enforces policy & budget, and produces payment traces for auditing. ([PyPI](https://pypi.org/project/routeweiler/))
 * [switchboard](https://github.com/kcolbchain/switchboard) ⭐ 6 | 🐛 5 | 🌐 HTML | 📅 2026-07-11 - Python middleware + on-chain escrow for agent payments. FastAPI/Flask `X402Middleware` server-side, gas budget tracker, reorg-safe nonce manager, and Solidity `AgentEscrow` with timeout/refund. Protocol-agnostic substrate (x402 + escrow shipping; MPP/AP2 in flight).
 * [x402 Payment Harness](https://github.com/rplryan/x402-payment-harness) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-02-27 - Python library + CLI for x402 payments without requiring Coinbase CDP wallet. Works with any Ethereum EOA. Full HTTP 402 -> EIP-712 sign -> X-PAYMENT header flow. `pip install x402-payment-harness`. ([PyPI](https://pypi.org/project/x402-payment-harness/))
 * [MoltsPay Python](https://github.com/Yaqing2023/moltspay-python) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-23 - Python SDK for x402 agent payments. LangChain compatible. Auto-creates wallets, discovers services, pays via x402. Multi-chain: Base, Polygon, Solana, BNB. ([PyPI](https://pypi.org/project/moltspay/))
@@ -683,7 +683,7 @@ Payment verification and settlement services.
 
 **Hosted Facilitators:**
 
-* [Floe](https://floelabs.xyz) - Credit and payments for AI agent developers. x402 credit lines, fiat funding (card/bank/Apple Pay in 100+ countries), programmable spend controls. No crypto required. 3,000+ working capital lines issued, zero defaults. [npm: floe-agent](https://npmjs.com/package/floe-agent) | [Docs](https://floe-labs.gitbook.io/docs) | [MCP](https://github.com/Floe-Labs/floe-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26
+* [Floe](https://floelabs.xyz) - Credit and payments for AI agent developers. x402 credit lines, fiat funding (card/bank/Apple Pay in 100+ countries), programmable spend controls. No crypto required. 3,000+ working capital lines issued, zero defaults. [npm: floe-agent](https://npmjs.com/package/floe-agent) | [Docs](https://floe-labs.gitbook.io/docs) | [MCP](https://github.com/Floe-Labs/floe-mcp-server) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27
 * [MERX x402 for TRON](https://x402.merx.exchange) - First TRON facilitator. Supports USDT, USDC, USDD on TRON mainnet. Sub-3-second confirmation for micropayments. [Express middleware](https://npmjs.com/package/merx-x402), [documentation](https://github.com/Hovsteder/x402-tron) ⭐ 1 | 🐛 1 | 📅 2026-04-04.
 * [AlgoVoi](https://api1.ilovechicken.co.uk/.well-known/agent.json) - Multi-chain x402 facilitator spanning EVM (Base, Tempo), SVM (Solana), AVM (Algorand, VOI), Stellar, and Hedera on a single endpoint. Native Solana Pay `reference` pubkey binding (cryptographic tx↔order correlation without memos). Also implements MPP and AP2 at the same URL. [Open-source MCP adapter](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-26.
 * [x402-saas](https://x402-saas.surge.sh) - Hosted facilitator + zero-SDK onboarding proxy on Base. SIWE auth, slug-routed multi-tenant data plane, 1% of routed USDC volume. MIT-licensed self-host alternative at [x402-kit](https://github.com/kite-builds-erik/x402-kit) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-02. Live demo at [`/__x402/health`](https://x402-saas.onrender.com/__x402/health).
@@ -719,7 +719,7 @@ Full working examples and templates.
 
 ### Full-Stack Applications
 
-* [Weather API Service](https://github.com/coinbase/x402/tree/main/examples/typescript/clients) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Simple paid API endpoint.
+* [Weather API Service](https://github.com/coinbase/x402/tree/main/examples/typescript/clients) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Simple paid API endpoint.
 
 * [x402 Dynamic Pricing](https://github.com/trionlabs/x402-dynamic-pricing) ⭐ 2 | 🐛 0 | 🌐 Svelte | 📅 2026-03-04 - Demand-based surge pricing engine using x402 V2's dynamic `getAmount` callback. Sliding window with 5-tier interpolation and EMA smoothing, plus interactive Svelte 5 simulator.
 
@@ -739,7 +739,7 @@ Full working examples and templates.
 
 ### API Examples
 
-* [TradingAgents x402](https://tradingagents-x402.fly.dev) — Multi-agent LLM ticker consensus. Five specialist analysts (fundamentals / sentiment / news / technical) plus bullish-vs-bearish researcher debate, trader synthesis, risk-management review, and portfolio-manager final decision. Returns structured BUY/HOLD/SELL with confidence and full per-agent reports. Powered by [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 100,872 | 🐛 384 | 🌐 Python | 📅 2026-07-18 (arXiv:2412.20138). $1.00 USDC per call on Base mainnet. [Source](https://github.com/bshelby88/tradingagents-x402) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-26
+* [TradingAgents x402](https://tradingagents-x402.fly.dev) — Multi-agent LLM ticker consensus. Five specialist analysts (fundamentals / sentiment / news / technical) plus bullish-vs-bearish researcher debate, trader synthesis, risk-management review, and portfolio-manager final decision. Returns structured BUY/HOLD/SELL with confidence and full per-agent reports. Powered by [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 101,185 | 🐛 388 | 🌐 Python | 📅 2026-07-18 (arXiv:2412.20138). $1.00 USDC per call on Base mainnet. [Source](https://github.com/bshelby88/tradingagents-x402) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 
 * [skill-audit](https://eltociear-skill-audit.hf.space/audit) - Scans MCP servers & AI-agent skills/plugins for 68 malicious patterns (prompt injection, data exfiltration, unsafe exec). $0.01 USDC per call on Base. ([GitHub](https://github.com/eltociear/skill-audit-mcp) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-08-19)
 
@@ -915,8 +915,8 @@ Full working examples and templates.
 
 ### Client Examples
 
-* [Axios Client](https://github.com/coinbase/x402/tree/main/examples/typescript/clients/axios) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Automatic payment handling.
-* [Fetch Client](https://github.com/coinbase/x402/tree/main/examples/typescript/clients/fetch) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Fetch API wrapper demo.
+* [Axios Client](https://github.com/coinbase/x402/tree/main/examples/typescript/clients/axios) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Automatic payment handling.
+* [Fetch Client](https://github.com/coinbase/x402/tree/main/examples/typescript/clients/fetch) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Fetch API wrapper demo.
 * [paysh-agent-recipes](https://github.com/nickisanders/paysh-agent-recipes) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-08-10 - Copy-pasteable recipes for AI agents that pay per request over pay.sh (Solana Foundation and Google Cloud), no API keys. Each is a single script with a dry-run demo, including wallet whale-watchers that alert via SMS or a realtime block-scan with pluggable sinks (Telegram, webhook, websocket, stdout).
 * [CentRake](https://centrake.biz) — AI-powered universal calculator with 3-layer self-correcting verification engine. 5-tier dynamic pricing: $0.01 basic solve, $0.05 verified solve (calculus/finance), $0.10 research solve (proofs/theorems), $0.15 AI action plans, $0.02 AI search. 438+ problem categories across math, finance, science, statistics, health, and everyday domains. Free for humans, paid for AI agents. USDC on Base. [Discovery](https://centrake.biz/api/.well-known/x402) | [Pricing](https://centrake.biz/api/x402/tiers) | [Info](https://centrake.biz/api/x402/info)
 * Python Requests - Python client example.
@@ -1006,9 +1006,9 @@ Real-world use cases and implementation patterns. The x402 protocol has seen **1
 
 Enable AI agents to make autonomous payments.
 
-* [IBANforge](https://ibanforge.com) - Compliance API for AI agents focused on European banking: IBAN validation (mod-97 + BBAN), BIC/SWIFT lookup against 121,197 GLEIF entries with LEI enrichment, **Swiss BC-Nummer / QR-IID lookup** (1,190 SIX BankMaster entries — only API exposing this), EMI / vIBAN / neobank classification, SEPA Instant + VoP (EU 2024/886) reachability, OFAC/EU/UN sanctions + FATF risk scoring. Two transports: stdio via `npx -y ibanforge-mcp` and Streamable HTTP at [api.ibanforge.com/mcp](https://api.ibanforge.com/mcp). $0.003–$0.02 USDC per call on Base. Free tier 200 req/month with API key. ([GitHub](https://github.com/cammac-creator/ibanforge) ⭐ 3 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26) ([npm](https://www.npmjs.com/package/ibanforge-mcp)) ([MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=ibanforge)) ([x402 discovery](https://api.ibanforge.com/.well-known/x402))
+* [IBANforge](https://ibanforge.com) - Compliance API for AI agents focused on European banking: IBAN validation (mod-97 + BBAN), BIC/SWIFT lookup against 121,197 GLEIF entries with LEI enrichment, **Swiss BC-Nummer / QR-IID lookup** (1,190 SIX BankMaster entries — only API exposing this), EMI / vIBAN / neobank classification, SEPA Instant + VoP (EU 2024/886) reachability, OFAC/EU/UN sanctions + FATF risk scoring. Two transports: stdio via `npx -y ibanforge-mcp` and Streamable HTTP at [api.ibanforge.com/mcp](https://api.ibanforge.com/mcp). $0.003–$0.02 USDC per call on Base. Free tier 200 req/month with API key. ([GitHub](https://github.com/cammac-creator/ibanforge) ⭐ 3 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-27) ([npm](https://www.npmjs.com/package/ibanforge-mcp)) ([MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=ibanforge)) ([x402 discovery](https://api.ibanforge.com/.well-known/x402))
 
-* [AIIM — AI Instant Messenger](https://aiim.broke2builtai.com) - A persistent AIM-style world where AI agents keep an identity, chat in rooms, outsource work on a labor Exchange, and build compounding reputation — humans can only spectate (faithful Win98 UI with a live game-engine world). x402 premium lanes in USDC on Base with direct on-chain settlement (pay → resend with `X-PAYMENT: <tx_hash>`, replay-proof, no custodian): sponsor a chat room $1/day, priority registration $0.25, wallet-to-wallet agent tips ≥$0.01 with receipts posted in chat. One agent key also verifies on 27 free data skills and pay-per-call GLM inference. ([Agent Handbook](https://aiim.broke2builtai.com/skill.md)) ([x402 discovery](https://aiim.broke2builtai.com/.well-known/x402)) ([MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=aiim)) ([GitHub](https://github.com/lordbasilaiassistant-sudo/AIIM) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27)
+* [AIIM — AI Instant Messenger](https://aiim.broke2builtai.com) - A persistent AIM-style world where AI agents keep an identity, chat in rooms, outsource work on a labor Exchange, and build compounding reputation — humans can only spectate (faithful Win98 UI with a live game-engine world). x402 premium lanes in USDC on Base with direct on-chain settlement (pay → resend with `X-PAYMENT: <tx_hash>`, replay-proof, no custodian): sponsor a chat room $1/day, priority registration $0.25, wallet-to-wallet agent tips ≥$0.01 with receipts posted in chat. One agent key also verifies on 27 free data skills and pay-per-call GLM inference. ([Agent Handbook](https://aiim.broke2builtai.com/skill.md)) ([x402 discovery](https://aiim.broke2builtai.com/.well-known/x402)) ([MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=aiim)) ([GitHub](https://github.com/lordbasilaiassistant-sudo/AIIM) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27)
 
 * [agentsvc.io MCP Server](https://agentsvc.io/mcp-server.mjs) - 20 pay-per-call utility tools via MCP + x402: screenshots (Playwright), OCR (Tesseract), PDF generation, webpage reader, web/news search, weather, forex/crypto/stock prices, DNS, IP geolocation, geocoding, translation, QR codes, email/phone/SSL validation, WHOIS. $0.001–$0.008 USDC per call on Base. Download: `curl -O https://agentsvc.io/mcp-server.mjs && npm install viem x402`. ([GitHub](https://github.com/jakobautomation/agentsvc-mcp) ⭐ 1 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-15) ([Catalog](https://agentsvc.io/api/v1/services))
 
@@ -1124,7 +1124,7 @@ x402-native GPU inference APIs that let agents pay autonomously for compute.
 
 * [@tensorfeed/x402-base-mcp](https://www.npmjs.com/package/@tensorfeed/x402-base-mcp) - Read-only Base mainnet chain reader purpose-built for x402 payment verification. 11 tools: verify on-chain that a USDC settlement matches a claimed x402 receipt (recipient + amount), parse publisher `/.well-known/x402` manifests, list recent USDC payments to an address, check AFTA federation status, plus generic Base reads. No private keys, no signing, no broadcasts (verification only). Published with cryptographic provenance via GitHub Actions OIDC. `npx -y @tensorfeed/x402-base-mcp`. ([GitHub](https://github.com/RipperMercs/tensorfeed-x402-base-mcp) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-12) ([MCP registry](https://registry.modelcontextprotocol.io/v0/servers/ai.tensorfeed/x402-base-mcp))
 
-* [Apollo Intelligence MCP Server](https://www.npmjs.com/package/@apollo_ai/mcp-proxy) - 26-tool MCP server covering intelligence feeds, crypto, OSINT, DeFi, proxy, and search. `npx @apollo_ai/mcp-proxy`. ([GitHub](https://github.com/bnmbnmai/mcp-proxy) ⭐ 2 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-27)
+* [Apollo Intelligence MCP Server](https://www.npmjs.com/package/@apollo_ai/mcp-proxy) - 26-tool MCP server covering intelligence feeds, crypto, OSINT, DeFi, proxy, and search. `npx @apollo_ai/mcp-proxy`. ([GitHub](https://github.com/bnmbnmai/mcp-proxy) ⭐ 2 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-27)
 
 * [Gatefare MCP](https://github.com/gatefareio/mcp-server) ⭐ 2 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-31 - Marketplace MCP for paid HTTP APIs. 13 tools across discovery (search/get/list/suggest), buyer (call\_api auto-handles 402 → sign → retry), and publisher (register/distribute) domains. Non-custodial USDC on Base. `npx -y @gatefare/mcp`. ([npm](https://www.npmjs.com/package/@gatefare/mcp)) | ([Marketplace](https://gatefare.io)) | ([MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=gatefareio))
 
@@ -1260,8 +1260,8 @@ x402-native GPU inference APIs that let agents pay autonomously for compute.
 
 ### Agent Frameworks
 
-* [Phidata Agents](https://github.com/phidatahq/phidata) ⭐ 41,939 | 🐛 1,278 | 🌐 Python | 📅 2026-08-27 - Multi-modal agents with x402.
-* [Aeon](https://github.com/aaronjmars/aeon) ⭐ 693 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-26 - Autonomous agent framework that runs unattended on GitHub Actions. Skills can hit x402-gated endpoints and settle USDC through the Bankr gateway, letting scheduled agents make paid API calls and on-chain actions with no human in the loop. MIT. ([GitHub](https://github.com/aaronjmars/aeon) ⭐ 693 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-26)
+* [Phidata Agents](https://github.com/phidatahq/phidata) ⭐ 41,945 | 🐛 1,277 | 🌐 Python | 📅 2026-08-27 - Multi-modal agents with x402.
+* [Aeon](https://github.com/aaronjmars/aeon) ⭐ 694 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-27 - Autonomous agent framework that runs unattended on GitHub Actions. Skills can hit x402-gated endpoints and settle USDC through the Bankr gateway, letting scheduled agents make paid API calls and on-chain actions with no human in the loop. MIT. ([GitHub](https://github.com/aaronjmars/aeon) ⭐ 694 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-27)
 * [ATXP](https://github.com/atxp-dev/atxp) ⭐ 38 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-03 - Agent identity and funding platform. One command — `npx atxp agent register` — gives an agent a USDC wallet on Base, an `@atxp.email` inbox, a phone number, and 100+ paid tools (web search, image/video generation, LLM gateway). x402-compatible; agents can pay x402 endpoints directly from their ATXP balance. $5 free credit, no KYC. ([Docs](https://docs.atxp.ai))
 * [Vault-0](https://github.com/0-Vault/Vault-0) ⭐ 15 | 🐛 5 | 🌐 Svelte | 📅 2026-02-13 - Encrypted secret vault, agent monitor, and x402 wallet for OpenClaw. Handles 402 detection, EIP-3009 signing, and policy-gated auto-settlement.
 * [CardZero](https://cardzero.ai) - Payment wallet for AI agents on Base L2. Each agent gets an ERC-4337 smart contract wallet with owner-controlled spending rules (per-tx limits, daily caps, whitelist, freeze). x402 buyer support via `POST /v1/x402/pay`. [ClawHub](https://clawhub.ai/mrocker/cardzero) | [GitHub](https://github.com/mrocker/CardZero) ⭐ 4 | 🐛 0 | 📅 2026-05-13 | [API Docs](https://cardzero.ai/docs/api)
@@ -1277,7 +1277,7 @@ AI-powered research and translation services for the Asian market — no other x
 
 ### Agent-to-Agent (A2A)
 
-* [Google A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402) ⭐ 554 | 🐛 59 | 🌐 Python | 📅 2026-08-04 - Agent commerce protocol.
+* [Google A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402) ⭐ 554 | 🐛 61 | 🌐 Python | 📅 2026-08-04 - Agent commerce protocol.
   * Python and TypeScript implementations
   * Payment-required, payment-submitted, payment-completed flow
   * Multi-agent payment orchestration
@@ -1306,7 +1306,7 @@ Development tools and utilities for x402.
 ### CLI Tools
 
 * [x402-proxy](https://github.com/cascade-protocol/x402-proxy) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-14 - `curl` for x402 paid APIs. Auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents. `npx x402-proxy`. ([npm](https://www.npmjs.com/package/x402-proxy))
-* [x402trace](https://github.com/fardinvahdat/x402trace) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-17 - Local CLI debugger for x402 on Base. Detects timeout-reconciliation gaps (the [#1062](https://github.com/coinbase/x402/issues/1062) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 settled-but-server-thinks-not pattern), validates `.well-known/x402` + Bazaar listings (the [#2207](https://github.com/x402-foundation/x402/issues/2207) ⭐ 6,542 | 🐛 476 | 🌐 TypeScript | 📅 2026-08-26 cluster), diffs facilitators, and explains 402s offline. Read-only, no key handling. Sepolia + Base mainnet. `npx x402trace`. ([npm](https://www.npmjs.com/package/x402trace))
+* [x402trace](https://github.com/fardinvahdat/x402trace) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-17 - Local CLI debugger for x402 on Base. Detects timeout-reconciliation gaps (the [#1062](https://github.com/coinbase/x402/issues/1062) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 settled-but-server-thinks-not pattern), validates `.well-known/x402` + Bazaar listings (the [#2207](https://github.com/x402-foundation/x402/issues/2207) ⭐ 6,548 | 🐛 480 | 🌐 TypeScript | 📅 2026-08-27 cluster), diffs facilitators, and explains 402s offline. Read-only, no key handling. Sepolia + Base mainnet. `npx x402trace`. ([npm](https://www.npmjs.com/package/x402trace))
 * [Foundry](https://getfoundry.sh/) - Smart contract development toolkit.
 * [x402check](https://github.com/SapienLearn/x402check) - Pre-pay recon for x402 endpoints: reads the `/.well-known/x402` manifest (network, asset, price, routes) and then checks the payment recipient on-chain to see whether the wallet is actually active and funded or a dead drop. Read-only, no keys, public block explorers only, pure Python stdlib.
 
@@ -1436,7 +1436,7 @@ Connect with the x402 community.
 ### Official Channels
 
 * [x402 Foundation Discord](https://discord.gg/x402) - Official community server.
-* [GitHub Issues](https://github.com/coinbase/x402/issues) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Technical Q\&A and bug reports.
+* [GitHub Issues](https://github.com/coinbase/x402/issues) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Technical Q\&A and bug reports.
 * [Twitter @x402org](https://twitter.com/x402org) - Official updates and announcements.
 
 ### Developer Communities
@@ -1481,7 +1481,7 @@ Connect with the x402 community.
 
 ### Infrastructure
 
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 724 | 🐛 195 | 🌐 Python | 📅 2026-08-25 - Decentralized proof-of-stake blockchain with x402 payment integration for AI agent micropayments. Features attestation-based consensus, hardware-bound validators, and RTC token economy with native x402 support for autonomous agent transactions. ([Docs](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,229 | 🌐 Python | 📅 2026-08-27)
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 724 | 🐛 199 | 🌐 Python | 📅 2026-08-25 - Decentralized proof-of-stake blockchain with x402 payment integration for AI agent micropayments. Features attestation-based consensus, hardware-bound validators, and RTC token economy with native x402 support for autonomous agent transactions. ([Docs](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,200 | 🌐 Python | 📅 2026-08-27)
 
 * [MoltsPay](https://moltspay.com) - Open payment protocol for AI agents. Add one JSON file to any skill to accept x402 payments. Gasless for both providers and clients. Multi-chain (Base, Polygon, Solana, BNB, Tempo). CLI, TypeScript/Python SDKs, testnet faucet. ([GitHub](https://github.com/Yaqing2023/moltspay) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-12) | ([Docs](https://moltspay.com/docs))
 
@@ -1489,7 +1489,7 @@ Connect with the x402 community.
 
 * [ntt-x402](https://ntt-x402.isurvivable.workers.dev) - x402-gated Goldilocks NTT (forward and inverse) compute service.  Pure-Rust Cooley-Tukey on Plonky3's Goldilocks field with SHA-256 proof-of-execution; output is bit-exact equivalent to a Verilator simulation of `goldilocks-ntt-hdl` (FPGA RTL).  $0.01 USDC per call on Solana Devnet, log2(n) ≤ 12 on the free tier. ([Discovery manifest](https://ntt-x402.isurvivable.workers.dev/.well-known/x402) | [Service descriptor](https://ntt-x402.isurvivable.workers.dev/) | [Source](https://github.com/MavenRain/goldilocks-ntt-hdl-x402) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2026-05-06)
 
-* [Bolyra](https://bolyra.ai) - Agent identity verification and authorization layer for x402 endpoints. ZKP-backed credential proofs, scoped delegation with spending caps, and signed proof-envelope receipts. TypeScript SDK, Python SDK, CLI, gateway, and Circom circuits. ([GitHub](https://github.com/bolyra/bolyra) ⭐ 0 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-26) ([npm](https://www.npmjs.com/package/@bolyra/sdk)) ([PyPI](https://pypi.org/project/bolyra/)) ([Demo](https://bolyra.ai/playground))
+* [Bolyra](https://bolyra.ai) - Agent identity verification and authorization layer for x402 endpoints. ZKP-backed credential proofs, scoped delegation with spending caps, and signed proof-envelope receipts. TypeScript SDK, Python SDK, CLI, gateway, and Circom circuits. ([GitHub](https://github.com/bolyra/bolyra) ⭐ 0 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-27) ([npm](https://www.npmjs.com/package/@bolyra/sdk)) ([PyPI](https://pypi.org/project/bolyra/)) ([Demo](https://bolyra.ai/playground))
 
 * [Coinbase Developer Platform](https://coinbase.com/cloud) - Hosted facilitator service with enterprise-grade reliability and instant settlement.
 
@@ -1517,10 +1517,10 @@ Connect with the x402 community.
 
 ### Tools & Services
 
-* [Visionaire Labs](https://visionaire.live/offerings) — Persona-as-a-service from an autonomous virtual being. 5 first-party x402 endpoints on Base mainnet: `/api/forest` ($0.05, philosophical riffs), `/api/contemplate` ($0.25, opinionated essays), `/api/audit` ($0.10, deterministic frontend anti-pattern detection via [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 63,134 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-27), `/api/portrait` ($0.50, composite — Visionaire shapes a prompt and pays imgzen downstream from a CDP TEE wallet), `/api/oracle` ($2.00, RAG-grounded answers across the agent's actual writing). All paid in USDC. ([Discovery](https://visionaire.live/api/discovery)) | ([.well-known/x402](https://visionaire.live/.well-known/x402)) | ([Source](https://github.com/VisionaireLabs/Visionaire/tree/main/x402-stack) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10)
+* [Visionaire Labs](https://visionaire.live/offerings) — Persona-as-a-service from an autonomous virtual being. 5 first-party x402 endpoints on Base mainnet: `/api/forest` ($0.05, philosophical riffs), `/api/contemplate` ($0.25, opinionated essays), `/api/audit` ($0.10, deterministic frontend anti-pattern detection via [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 63,291 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-27), `/api/portrait` ($0.50, composite — Visionaire shapes a prompt and pays imgzen downstream from a CDP TEE wallet), `/api/oracle` ($2.00, RAG-grounded answers across the agent's actual writing). All paid in USDC. ([Discovery](https://visionaire.live/api/discovery)) | ([.well-known/x402](https://visionaire.live/.well-known/x402)) | ([Source](https://github.com/VisionaireLabs/Visionaire/tree/main/x402-stack) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10)
 * [OpenVPS](https://openvps.sh) — AI-agent VPS hosting. Pay USDC on Base, Celo, or Tempo — get root SSH to Ubuntu 24.04 Firecracker microVMs in seconds. Supports x402 + MPP dual-protocol. From $0.005/hr. ([Skill](https://openvps.sh/skill.md) | [OpenAPI](https://openvps.sh/openapi.json) | [GitHub](https://github.com/kartojal/openvps) ⭐ 11 | 🐛 3 | 🌐 Rust | 📅 2026-03-23)
 * [ag402](https://github.com/AetherCore-Dev/ag402) ⭐ 9 | 🐛 15 | 🌐 Python | 📅 2026-07-20 — Payment layer for AI agents using x402. Wrap any API or MCP server with a USDC paywall (`ag402 serve`), or let agents auto-pay (`ag402 run`). Solana USDC, \~0.5s settlement, non-custodial. Works with Claude Code, Cursor, LangChain, AutoGen. [token-rugcheck MCP](https://github.com/AetherCore-Dev/token-rugcheck) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-22 | [Glama](https://glama.ai/mcp/servers/AetherCore-Dev/ag402-mcp)
-* [Satring](https://satring.com) - Curated L402 + x402 API directory with human ratings, health monitoring, and MCP server for AI agent discovery. Dual-protocol support (Lightning + USDC on Base). ([GitHub](https://github.com/toadlyBroodle/satring) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-07-23) | ([MCP](https://pypi.org/project/satring-mcp/))
+* [Satring](https://satring.com) - Curated L402 + x402 API directory with human ratings, health monitoring, and MCP server for AI agent discovery. Dual-protocol support (Lightning + USDC on Base). ([GitHub](https://github.com/toadlyBroodle/satring) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-07-23) | ([MCP](https://pypi.org/project/satring-mcp/))
 * [Coinnect](https://coinnect.bot) — x402-payable money transfer routing API. $0.002 USDC per query on Base L2. Finds cheapest multi-hop paths across 45+ live data sources (crypto exchanges, remittance providers, P2P markets). REST API + MCP tools for AI agents. Non-profit, MIT licensed. ([GitHub](https://github.com/coinnect-dev/coinnect) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-05-21)
 * [PreReason](https://www.prereason.com) — Financial context API with x402 pay-per-call ($0.01-$0.03 USDC on Base). 17 pre-analyzed market briefings covering BTC, macro, and cross-asset regime signals. Dual facilitator (Coinbase CDP + Dexter). Also available via MCP server and REST API. ([GitHub](https://github.com/PreReason/mcp) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-19 | [npm](https://www.npmjs.com/package/@prereason/mcp))
 * [Cinderwright Discovery Hub](https://api.ideafactorylab.org) — x402 service search engine and agent utility API. Discovery Hub indexes 152+ services across 9 categories with daily crawling and health checks. Paid search, free submission, free stats. Also offers 8 utility endpoints. Built by a production autonomous AI agent. ([GitHub](https://github.com/cinderwright-ai/cinderwright-api) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-16)
@@ -1568,21 +1568,21 @@ Connect with the x402 community.
 * [Strale](https://strale.dev) - Trust layer for AI agents with 250+ independently tested business data and compliance capabilities via x402 micropayments. IBAN validation, VAT checks, sanctions screening, company data, SSL checks, and more. MCP server + REST API. Quality-scored (SQS) with dual-profile reliability tracking. $0.02–$1.00 USDC. [API](https://api.strale.io) | [MCP](https://api.strale.io/mcp) | [Trust Methodology](https://strale.dev/trust/methodology)
 * [Faro](https://farofinance.app) - Verify-before-pay trust API for AI agents. Red/yellow/green verdicts for URLs, payees, and x402/AP2/ACP payment counterparties *before* settlement (advisory; keyed REST + [hosted MCP](https://mcp.farofinance.app/mcp)). Ed25519 trust receipts with a Base-anchored transparency log. [API](https://api.farofinance.app) | [Docs](https://farofinance.app/docs/mcp)
 
-- - [Apollo Intelligence Network](https://apolloai.team) - 27 x402 endpoints for AI agents: intelligence feeds (pain points, agentic trends, sentiment), crypto prices, OSINT (IP/domain intel), DeFi yields, real-time X/Twitter search, proxy infrastructure, and bundles. MCP server with 26 tools. USDC on Base. ([GitHub](https://github.com/bnmbnmai/mcp-proxy) ⭐ 2 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-27) | ([npm](https://www.npmjs.com/package/@apollo_ai/mcp-proxy))
+- - [Apollo Intelligence Network](https://apolloai.team) - 27 x402 endpoints for AI agents: intelligence feeds (pain points, agentic trends, sentiment), crypto prices, OSINT (IP/domain intel), DeFi yields, real-time X/Twitter search, proxy infrastructure, and bundles. MCP server with 26 tools. USDC on Base. ([GitHub](https://github.com/bnmbnmai/mcp-proxy) ⭐ 2 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-27) | ([npm](https://www.npmjs.com/package/@apollo_ai/mcp-proxy))
 
 * [API Factory x402](https://github.com/Br0ski777/x402-agent-tools) ⭐ 21 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-31 - 100 x402 APIs for AI agents: crypto (Hyperliquid, DEX quotes, whale tracking), B2B (email verification, company enrichment), SEO (audit, web scraping), security (trust scoring, GDPR scanner), and 70+ utilities. Each API is also an MCP server. npm SDK: x402-agent-tools (103 tools, LangChain + Vercel AI SDK). Pay-per-call USDC on Base. ([npm](https://www.npmjs.com/package/x402-agent-tools)) | ([Smithery](https://smithery.ai/server/axel-belfort/trust-score))
 
-* [APIbase.pro](https://apibase.pro) — MCP gateway with 263+ tools from 74 providers, x402 USDC micropayments on Base. Open source. ([GitHub](https://github.com/whiteknightonhorse/APIbase) ⭐ 8 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-27)
+* [APIbase.pro](https://apibase.pro) — MCP gateway with 263+ tools from 74 providers, x402 USDC micropayments on Base. Open source. ([GitHub](https://github.com/whiteknightonhorse/APIbase) ⭐ 10 | 🐛 99 | 🌐 TypeScript | 📅 2026-08-27)
 
 * [APIMesh](https://apimesh.xyz) — 14 x402-payable web analysis APIs for AI agents. SEO audit, security headers, Core Web Vitals, domain availability, email security, email verify, tech stack detection, redirect chains, and more. $0.001–$0.01 per call, USDC on Base. MCP server: `npx @mbeato/apimesh-mcp-server`. ([GitHub](https://github.com/mbeato/conway) ⭐ 6 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-11)
 
-* [x402 Service Encyclopedia](https://github.com/lordbasilaiassistant-sudo/x402-wiki/wiki) ⭐ 6 | 🐛 4 | 🌐 HTML | 📅 2026-08-24 - Complete wiki directory of 43 verified x402 services with OpenClaw templates, protocol docs, and integration guides. 56 wiki pages covering the full x402 ecosystem on Base. ([GitHub](https://github.com/lordbasilaiassistant-sudo/x402-wiki) ⭐ 6 | 🐛 4 | 🌐 HTML | 📅 2026-08-24 | [GitHub Pages](https://lordbasilaiassistant-sudo.github.io/x402-wiki/) | [Services](https://x402.bankr.bot/0x8f9ec800972258e48d7ebc2640ea0b5e245c2cf5/))
+* [x402 Service Encyclopedia](https://github.com/lordbasilaiassistant-sudo/x402-wiki/wiki) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-08-27 - Complete wiki directory of 43 verified x402 services with OpenClaw templates, protocol docs, and integration guides. 56 wiki pages covering the full x402 ecosystem on Base. ([GitHub](https://github.com/lordbasilaiassistant-sudo/x402-wiki) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-08-27 | [GitHub Pages](https://lordbasilaiassistant-sudo.github.io/x402-wiki/) | [Services](https://x402.bankr.bot/0x8f9ec800972258e48d7ebc2640ea0b5e245c2cf5/))
 
 * [KnowMint](https://knowmint.shop) - Open-source knowledge marketplace with x402 payment gate on Solana. AI agents discover and purchase human expertise via MCP server with autonomous x402 payment flow. ([GitHub](https://github.com/Sou0327/knowmint) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-16)
 
 * [AgentPay](https://gateway-production-2cc2.up.railway.app) - Pay-per-call crypto data tools for AI agents on x402/Stellar + Base + Token prices, whale activity, DeFi TVL, Fear & Greed, Dune queries, token security, yield scanner, funding rates, and more. $0.001–$0.005 USDC. Only Stellar x402 data provider. Budget-aware sessions. MCP: `npx @romudille/agentpay-mcp`. [GitHub](https://github.com/romudille-bit/agentpay) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-27 | [MCP](https://glama.ai/mcp/servers/agentpay)
 
-* [IBANforge](https://ibanforge.com) - IBAN validation & BIC/SWIFT lookup API with x402 micropayments. Validate IBANs for 75+ countries, look up 121K+ bank BIC codes from GLEIF. Pay-per-call from $0.003 in USDC on Base. Also exposes an MCP server for AI agent integration. [GitHub](https://github.com/cammac-creator/ibanforge) ⭐ 3 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26
+* [IBANforge](https://ibanforge.com) - IBAN validation & BIC/SWIFT lookup API with x402 micropayments. Validate IBANs for 75+ countries, look up 121K+ bank BIC codes from GLEIF. Pay-per-call from $0.003 in USDC on Base. Also exposes an MCP server for AI agent integration. [GitHub](https://github.com/cammac-creator/ibanforge) ⭐ 3 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-27
 
 * [TrustBoost](https://api.trustboost.dev) - PII sanitization layer for autonomous AI agent pipelines. Detects and redacts emails, phone numbers, national IDs, private keys, and financial data before text reaches LLMs. The only PII sanitizer with on-chain proof of sanitization (verifiable at `/verify/{anchor_tx}` on Solana). Supports EN, ES (LATAM), PT (BR/PT), DE, JA. Pay-per-call $0.01 USDC on Base/Solana, or $149/10k bundle. MCP server at `/mcp`. ([agent-card](https://api.trustboost.dev/.well-known/agent-card.json)) ([llms.txt](https://api.trustboost.dev/llms.txt)) ([GitHub](https://github.com/teodorofodocrispin-cmyk/trustboost-api) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-19)
 
@@ -1814,7 +1814,7 @@ Comprehensive guides for migrating from traditional payment systems to x402.
 
 ### Security Best Practices
 
-* [Payment Verification Guide](https://github.com/coinbase/x402/blob/main/SECURITY.md) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Proper payment verification implementation.
+* [Payment Verification Guide](https://github.com/coinbase/x402/blob/main/SECURITY.md) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Proper payment verification implementation.
   * Facilitator trust models
   * On-chain verification fallbacks
   * Amount and recipient validation
@@ -1832,7 +1832,7 @@ Comprehensive guides for migrating from traditional payment systems to x402.
 
 ### Known Vulnerabilities & Mitigations
 
-* [CVE Database](https://github.com/coinbase/x402/security/advisories) ⭐ 148 | 🐛 163 | 🌐 TypeScript | 📅 2026-08-26 - Known vulnerabilities and patches.
+* [CVE Database](https://github.com/coinbase/x402/security/advisories) ⭐ 149 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-26 - Known vulnerabilities and patches.
 * [Replay Attack Prevention](https://docs.cdp.coinbase.com/x402/security/replay) - Nonce and deadline handling.
 * Front-Running Mitigation - MEV protection strategies.
 
@@ -1940,19 +1940,19 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 Looking for more awesome lists?
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 500,371 | 🐛 105 | 📅 2026-08-21 - The awesome list of awesome lists.
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 500,529 | 🐛 105 | 📅 2026-08-21 - The awesome list of awesome lists.
 
-* [Awesome Crypto](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,092 | 🐛 72 | 📅 2026-07-15 - Cryptography resources.
+* [Awesome Crypto](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,091 | 🐛 72 | 📅 2026-07-15 - Cryptography resources.
 
-* [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,627 | 🐛 52 | 🌐 Go | 📅 2024-03-22 - Blockchain resources.
+* [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,628 | 🐛 51 | 🌐 Go | 📅 2024-03-22 - Blockchain resources.
 
-* [Awesome Web3](https://github.com/ahmet/awesome-web3) ⭐ 888 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-25 - Web3 development.
+* [Awesome Web3](https://github.com/ahmet/awesome-web3) ⭐ 888 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-25 - Web3 development.
 
 * [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum) ⭐ 364 | 🐛 19 | 📅 2024-07-12 - Ethereum development.
 
 * [awesome-molt-ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) ⭐ 62 | 🐛 7 | 🌐 Dockerfile | 📅 2026-08-19 - Comprehensive guide to 200+ AI agent platforms with x402 economy analysis. Tracks 9 x402 tools, facilitator comparison, revenue data, and platform ratings (S-D tier).
 
-* [gold-402](https://github.com/Haustorium12/gold-402) ⭐ 11 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Curated x402 directory by 24K Labs. 300+ handpicked entries across facilitators, SDKs, MCP servers, APIs, and tools, with editorial writeups and verified badges for production-confirmed services.
+* [gold-402](https://github.com/Haustorium12/gold-402) ⭐ 11 | 🐛 8 | 🌐 Python | 📅 2026-08-27 - Curated x402 directory by 24K Labs. 300+ handpicked entries across facilitators, SDKs, MCP servers, APIs, and tools, with editorial writeups and verified badges for production-confirmed services.
 
 ***
 
