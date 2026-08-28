@@ -16,7 +16,8 @@
             "owner": "coinbase",
             "repo": "x402",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "repo_info": {
@@ -62,7 +65,8 @@
             "owner": "coinbase",
             "repo": "x402",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         }
       ],
       "title": "📚 Official Resources"
@@ -83,7 +87,8 @@
             "owner": "coinbase",
             "repo": "x402",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -98,7 +103,8 @@
             "owner": "coinbase",
             "repo": "x402",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -113,7 +119,8 @@
             "owner": "coinbase",
             "repo": "x402",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         }
       ],
       "title": "📖 Protocol Documentation"
@@ -136,7 +143,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -158,7 +166,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "155143783",
                 "repo": "x402-data-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "srotzin",
                 "repo": "hive-rosetta",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -225,7 +237,8 @@
                 "owner": "AetherCore-Dev",
                 "repo": "ag402",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "bartonguestier1725-collab",
                 "repo": "x402-pay",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "srotzin",
                 "repo": "hive-rosetta",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -277,7 +292,8 @@
                 "owner": "x402-rs",
                 "repo": "x402-rs",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -303,7 +319,8 @@
             "owner": "AfaAgent",
             "repo": "x402-api-suite",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -316,11 +333,12 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:48:43Z",
+                "last_commit": "2026-08-28T23:07:08Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -331,11 +349,12 @@
                 "archived": false,
                 "id": 1171031623,
                 "language": "HTML",
-                "last_commit": "2026-08-24T18:13:51Z",
+                "last_commit": "2026-08-28T05:07:55Z",
                 "owner": "Deesmo",
                 "repo": "Arch-AI-Tools",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -350,7 +369,8 @@
                 "owner": "wuzenghai616-lang",
                 "repo": "goldbean",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -365,7 +385,8 @@
                 "owner": "icosaedro-git",
                 "repo": "toolsnap-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -380,7 +401,8 @@
                 "owner": "itsmeadamdamroma",
                 "repo": "money-machine-x402",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -395,7 +417,8 @@
                 "owner": "razel369",
                 "repo": "asset-forge-bundle",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "vladic-corp",
                 "repo": "denpyo-api",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -425,7 +449,8 @@
                 "owner": "jamesdfinance-dev",
                 "repo": "lazaretto-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -446,8 +471,9 @@
                 "last_commit": "2026-08-24T16:00:41Z",
                 "owner": "MiroShark",
                 "repo": "MiroShark",
-                "stars": 1441
-              }
+                "stars": 1442
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -462,7 +488,8 @@
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -477,7 +504,8 @@
                 "owner": "QuantOracledev",
                 "repo": "quantoracle",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -488,11 +516,12 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:12:40Z",
+                "last_commit": "2026-08-28T23:08:02Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -503,11 +532,12 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:48:43Z",
+                "last_commit": "2026-08-28T23:07:08Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -518,11 +548,12 @@
                 "archived": false,
                 "id": 1251928028,
                 "language": null,
-                "last_commit": "2026-08-11T12:14:01Z",
+                "last_commit": "2026-08-28T18:56:43Z",
                 "owner": "glim-sh",
                 "repo": "glim-mcp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -537,7 +568,8 @@
                 "owner": "hypeprinter007-stack",
                 "repo": "anchor-x402",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -548,11 +580,12 @@
                 "archived": false,
                 "id": 1304599270,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T22:24:27Z",
+                "last_commit": "2026-08-28T22:26:42Z",
                 "owner": "wyattpalm2-eng",
                 "repo": "x402-seller",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -567,7 +600,8 @@
                 "owner": "agentbodegastore",
                 "repo": "agentbodega",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -582,7 +616,8 @@
                 "owner": "openpulsechain",
                 "repo": "public",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -597,7 +632,8 @@
                 "owner": "img402",
                 "repo": "skills",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -612,7 +648,8 @@
                 "owner": "infiniteezverse",
                 "repo": "ez-agentic-price-path",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -627,7 +664,8 @@
                 "owner": "ucsandman",
                 "repo": "sentinel-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -642,7 +680,8 @@
                 "owner": "packrvnner",
                 "repo": "polybot-arb-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -657,7 +696,8 @@
                 "owner": "jakobautomation",
                 "repo": "agentsvc-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -672,7 +712,8 @@
                 "owner": "vbkotecha",
                 "repo": "agentservices-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -687,7 +728,8 @@
                 "owner": "rambov1",
                 "repo": "sivut-x402-public-data",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -702,7 +744,8 @@
                 "owner": "atmflow55",
                 "repo": "datafood-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -717,7 +760,8 @@
                 "owner": "namixai",
                 "repo": "usenami-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -732,7 +776,8 @@
                 "owner": "mizukaizen",
                 "repo": "x402-tools-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -747,7 +792,8 @@
                 "owner": "Rotwang9000",
                 "repo": "seneschal-data-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -762,7 +808,8 @@
                 "owner": "hshintelligence",
                 "repo": "data-on-demand",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -777,7 +824,8 @@
                 "owner": "MooneyLive",
                 "repo": "crypto-data-x402-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -792,7 +840,8 @@
                 "owner": "polsolbridge",
                 "repo": "swaptitan-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -807,7 +856,8 @@
                 "owner": "LJaysk",
                 "repo": "kr-dart-events",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -822,7 +872,8 @@
                 "owner": "sirenic-eu",
                 "repo": "sirenic-examples",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -837,7 +888,8 @@
                 "owner": "enrichgateagent-png",
                 "repo": "x402-agents",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -852,7 +904,8 @@
                 "owner": "terradeed",
                 "repo": "terradeed-scraper",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -867,7 +920,8 @@
                 "owner": "minhthai1995",
                 "repo": "x402-search-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -882,7 +936,8 @@
                 "owner": "beepboop2025",
                 "repo": "groundcheck",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -897,7 +952,8 @@
                 "owner": "savecharlie",
                 "repo": "almanac",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -912,7 +968,8 @@
                 "owner": "noesisx8",
                 "repo": "x402",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -927,7 +984,8 @@
                 "owner": "dripmetricsai",
                 "repo": "dripmetrics-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -942,7 +1000,8 @@
                 "owner": "webberdesign",
                 "repo": "api.webbersites.com",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1016,8 @@
                 "owner": "sebboseb",
                 "repo": "agent",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1032,8 @@
                 "owner": "Fry-Networks",
                 "repo": "fry-x402-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1048,8 @@
                 "owner": "fut66663",
                 "repo": "omninexu-v1",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1064,8 @@
                 "owner": "digitalweb33333-creator",
                 "repo": "x402-solana",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1080,8 @@
                 "owner": "dlrjsdl200-byte",
                 "repo": "x402-gas-api",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1096,8 @@
                 "owner": "paulos-sudo",
                 "repo": "x402-signature-service",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1112,8 @@
                 "owner": "tanaka-77",
                 "repo": "mart402-agent-kit",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1128,8 @@
                 "owner": "pennyforgehq",
                 "repo": "modelprices",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -1084,7 +1151,8 @@
                 "owner": "RIPRODUCTIONS",
                 "repo": "wingman-agent-gateway",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1099,7 +1167,8 @@
                 "owner": "frenexai",
                 "repo": "frenex-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1114,7 +1183,8 @@
                 "owner": "SEODesignLab",
                 "repo": "seo-mcp-server",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -1142,7 +1212,8 @@
                 "owner": "cryptomotifs",
                 "repo": "cipher-x402-client",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1228,8 @@
                 "owner": "JasonCZMeng",
                 "repo": "assay",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1244,8 @@
                 "owner": "Yaqing2023",
                 "repo": "moltspay",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1183,11 +1256,12 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:48:43Z",
+                "last_commit": "2026-08-28T23:07:08Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1198,11 +1272,12 @@
                 "archived": false,
                 "id": 1250957952,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:57:38Z",
+                "last_commit": "2026-08-28T16:10:08Z",
                 "owner": "piprail",
                 "repo": "piprail",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1217,7 +1292,8 @@
                 "owner": "RBKunnela",
                 "repo": "paybot-sdk",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1232,7 +1308,8 @@
                 "owner": "azeth-protocol",
                 "repo": "sdk",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1247,7 +1324,8 @@
                 "owner": "rubix1138",
                 "repo": "askew-openclaw-plugin",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1262,7 +1340,8 @@
                 "owner": "countersign-network",
                 "repo": "packages",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1277,7 +1356,8 @@
                 "owner": "forum-labs",
                 "repo": "payfetch",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1292,7 +1372,8 @@
                 "owner": "dlrjsdl200-byte",
                 "repo": "agent-sdk",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1307,7 +1388,8 @@
                 "owner": "kaditang",
                 "repo": "agent-payment-guard",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1404,8 @@
                 "owner": "Donk338",
                 "repo": "aegis-buy",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1336,8 +1419,9 @@
                 "last_commit": "2026-08-27T12:50:08Z",
                 "owner": "lopushok9",
                 "repo": "Agent-Layer",
-                "stars": 26
-              }
+                "stars": 27
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": "HTTP Clients\nAI Agent SDKs\nWallet Integration",
@@ -1355,11 +1439,12 @@
                 "archived": false,
                 "id": 629243152,
                 "language": "Rust",
-                "last_commit": "2026-08-26T08:55:06Z",
+                "last_commit": "2026-08-28T12:00:52Z",
                 "owner": "alloy-rs",
                 "repo": "alloy",
                 "stars": 1322
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -1387,7 +1472,8 @@
                 "owner": "DenisTheM",
                 "repo": "monapi",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1488,8 @@
                 "owner": "StelarDigital",
                 "repo": "x402-receipts",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1504,8 @@
                 "owner": "premsreelathasugeendran",
                 "repo": "autonomagic-marketplace",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1432,7 +1520,8 @@
                 "owner": "Rotwang9000",
                 "repo": "payments-gateway",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1443,11 +1532,12 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:48:43Z",
+                "last_commit": "2026-08-28T23:07:08Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1462,7 +1552,8 @@
                 "owner": "MoltyCel",
                 "repo": "moltrust-x402",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1477,7 +1568,8 @@
                 "owner": "larkin-dev",
                 "repo": "larkin",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1492,7 +1584,8 @@
                 "owner": "Risingtell",
                 "repo": "meter402",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1507,7 +1600,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1522,7 +1616,8 @@
                 "owner": "azeth-protocol",
                 "repo": "provider",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": "Multi-Framework\nExpress / Hono\nNext.js\nHono",
@@ -1544,7 +1639,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1559,7 +1655,8 @@
                 "owner": "minhthai1995",
                 "repo": "x402-agent-monetizer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1574,7 +1671,8 @@
                 "owner": "nikoSchoinas",
                 "repo": "routeweiler-python-sdk",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1589,7 +1687,8 @@
                 "owner": "kcolbchain",
                 "repo": "switchboard",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1604,7 +1703,8 @@
                 "owner": "rplryan",
                 "repo": "x402-payment-harness",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1619,7 +1719,8 @@
                 "owner": "Yaqing2023",
                 "repo": "moltspay-python",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": "FastAPI\nClient Libraries",
@@ -1645,7 +1746,8 @@
             "owner": "Floe-Labs",
             "repo": "floe-mcp-server",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1762,8 @@
             "owner": "Hovsteder",
             "repo": "x402-tron",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1778,8 @@
             "owner": "chopmob-cloud",
             "repo": "AlgoVoi-Platform-Adapters",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1794,8 @@
             "owner": "kite-builds",
             "repo": "x402-kit",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -1707,7 +1812,8 @@
                 "owner": "x402-rs",
                 "repo": "x402-rs",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1722,7 +1828,8 @@
                 "owner": "melonask",
                 "repo": "facilitator",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1737,7 +1844,8 @@
                 "owner": "agenticpay-dev",
                 "repo": "agenticpay",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -1763,7 +1871,8 @@
             "owner": "8dp6brm9hp-svg",
             "repo": "lion-mcp-public",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -1778,7 +1887,8 @@
             "owner": "jerrywrongalot-byte",
             "repo": "deaddrop-mcp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -1795,7 +1905,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1810,7 +1921,8 @@
                 "owner": "trionlabs",
                 "repo": "x402-dynamic-pricing",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1825,7 +1937,8 @@
                 "owner": "confluxarena",
                 "repo": "x402-boilerplate",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -1846,8 +1959,9 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 101185
-              }
+                "stars": 101590
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1862,7 +1976,8 @@
                 "owner": "eltociear",
                 "repo": "skill-audit-mcp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1877,7 +1992,8 @@
                 "owner": "eltociear",
                 "repo": "skill-audit-mcp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1892,7 +2008,8 @@
                 "owner": "863king",
                 "repo": "x402-gateway",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1907,7 +2024,8 @@
                 "owner": "bartonguestier1725-collab",
                 "repo": "x402-weather-api",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1922,7 +2040,8 @@
                 "owner": "nbsickler-ux",
                 "repo": "Sentinel",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1937,7 +2056,8 @@
                 "owner": "englishdoggy",
                 "repo": "agentcafe-examples",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1952,7 +2072,8 @@
                 "owner": "cryptomotifs",
                 "repo": "solsignal-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1967,7 +2088,8 @@
                 "owner": "bartonguestier1725-collab",
                 "repo": "scout-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1982,7 +2104,8 @@
                 "owner": "alberthild",
                 "repo": "shieldapi-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -1997,7 +2120,8 @@
                 "owner": "bartonguestier1725-collab",
                 "repo": "x402-mailcheck-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2012,7 +2136,8 @@
                 "owner": "andichen0420",
                 "repo": "x402-reputation-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2027,7 +2152,8 @@
                 "owner": "agentc221",
                 "repo": "x402-engine",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2042,7 +2168,8 @@
                 "owner": "Minnanthu",
                 "repo": "mornin-agentee",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2057,7 +2184,8 @@
                 "owner": "LucianoLupo",
                 "repo": "rug-scanner",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2072,7 +2200,8 @@
                 "owner": "epicblubber1-alt",
                 "repo": "x402-parser",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2087,7 +2216,8 @@
                 "owner": "aitools420",
                 "repo": "onchain-safety-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2102,7 +2232,8 @@
                 "owner": "fablerlabs",
                 "repo": "x402-tools",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2117,7 +2248,8 @@
                 "owner": "anxiety-design",
                 "repo": "hookproof",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -2139,7 +2271,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2154,7 +2287,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2169,7 +2303,8 @@
                 "owner": "nickisanders",
                 "repo": "paysh-agent-recipes",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -2195,7 +2330,8 @@
             "owner": "Cyberdyne-OS",
             "repo": "cyberdyne-mcp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2210,7 +2346,8 @@
             "owner": "JasonCZMeng",
             "repo": "assay",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2221,11 +2358,12 @@
             "archived": false,
             "id": 1198741568,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:47:28Z",
+            "last_commit": "2026-08-28T05:10:23Z",
             "owner": "cammac-creator",
             "repo": "ibanforge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2236,11 +2374,12 @@
             "archived": false,
             "id": 1305865089,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T22:34:01Z",
+            "last_commit": "2026-08-28T22:36:42Z",
             "owner": "lordbasilaiassistant-sudo",
             "repo": "AIIM",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2255,7 +2394,8 @@
             "owner": "jakobautomation",
             "repo": "agentsvc-mcp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2270,7 +2410,8 @@
             "owner": "carsonlabs",
             "repo": "graceful-fail",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2285,7 +2426,8 @@
             "owner": "Kevthetech143",
             "repo": "chain-signer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2300,7 +2442,8 @@
             "owner": "chrispy90",
             "repo": "vibesprings-mcp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -2315,7 +2458,8 @@
             "owner": "CallsFlow",
             "repo": "voicegate-sdk",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -2328,11 +2472,12 @@
                 "archived": false,
                 "id": 1161268529,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:32:43Z",
+                "last_commit": "2026-08-28T22:57:53Z",
                 "owner": "aeoess",
                 "repo": "agent-passport-system",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2347,7 +2492,8 @@
                 "owner": "arian-gogani",
                 "repo": "nobulex",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2362,7 +2508,8 @@
                 "owner": "presidio-v",
                 "repo": "presidio-hardened-x402",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2377,7 +2524,8 @@
                 "owner": "azender1",
                 "repo": "SafeAgent",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2392,7 +2540,8 @@
                 "owner": "Agentic-Adventures",
                 "repo": "agentgrade-cli",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2403,11 +2552,12 @@
                 "archived": false,
                 "id": 1196970384,
                 "language": "Python",
-                "last_commit": "2026-05-18T09:44:21Z",
+                "last_commit": "2026-08-28T14:22:26Z",
                 "owner": "LetAgentPay",
                 "repo": "letagentpay",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2422,7 +2572,8 @@
                 "owner": "notifuturo",
                 "repo": "vouch",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2433,11 +2584,12 @@
                 "archived": false,
                 "id": 1283284086,
                 "language": "HTML",
-                "last_commit": "2026-08-26T13:27:18Z",
+                "last_commit": "2026-08-28T13:18:01Z",
                 "owner": "kindrat86",
                 "repo": "agentmail",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2452,7 +2604,8 @@
                 "owner": "Bichev",
                 "repo": "agentradar-integrations",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2467,7 +2620,8 @@
                 "owner": "Jiangw2718i",
                 "repo": "frisk",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2482,7 +2636,8 @@
                 "owner": "andysalvo",
                 "repo": "agentrank",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2497,7 +2652,8 @@
                 "owner": "kindrat86",
                 "repo": "sipi-bot",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2512,7 +2668,8 @@
                 "owner": "x402spendguard",
                 "repo": "x402-spendguard",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2527,7 +2684,8 @@
                 "owner": "Donk338",
                 "repo": "aegis-buy",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -2549,7 +2707,8 @@
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2564,7 +2723,8 @@
                 "owner": "402md",
                 "repo": "x402-wallet-for-claude-desktop",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2575,11 +2735,12 @@
                 "archived": false,
                 "id": 1265675993,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:48:43Z",
+                "last_commit": "2026-08-28T23:07:08Z",
                 "owner": "MikeyPetrillo",
                 "repo": "Agent402",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2590,11 +2751,12 @@
                 "archived": false,
                 "id": 1250957952,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:57:38Z",
+                "last_commit": "2026-08-28T16:10:08Z",
                 "owner": "piprail",
                 "repo": "piprail",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2609,7 +2771,8 @@
                 "owner": "human-pages-ai",
                 "repo": "humanpages",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2624,7 +2787,8 @@
                 "owner": "mbeato",
                 "repo": "APIMesh",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2639,7 +2803,8 @@
                 "owner": "umangbuilds",
                 "repo": "moltpe-agent-payments",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2654,7 +2819,8 @@
                 "owner": "ClayYTsai",
                 "repo": "agent-discovery-mcp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2669,7 +2835,8 @@
                 "owner": "rplryan",
                 "repo": "x402-discovery-mcp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2684,7 +2851,8 @@
                 "owner": "nach-dakwale",
                 "repo": "instadomain-mcp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2699,7 +2867,8 @@
                 "owner": "pvega23",
                 "repo": "askclaude-mcp",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2714,7 +2883,8 @@
                 "owner": "azeth-protocol",
                 "repo": "mcp-server",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2729,7 +2899,8 @@
                 "owner": "RipperMercs",
                 "repo": "tensorfeed-x402-base-mcp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2740,11 +2911,12 @@
                 "archived": false,
                 "id": 1152521266,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T22:45:53Z",
+                "last_commit": "2026-08-28T02:53:39Z",
                 "owner": "bnmbnmai",
                 "repo": "mcp-proxy",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2759,7 +2931,8 @@
                 "owner": "gatefareio",
                 "repo": "mcp-server",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2774,7 +2947,8 @@
                 "owner": "x402-index",
                 "repo": "x402search-mcp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2789,7 +2963,8 @@
                 "owner": "AetherCore-Dev",
                 "repo": "token-rugcheck",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2804,7 +2979,8 @@
                 "owner": "meltingpixelsai",
                 "repo": "zero-core-tools",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2819,7 +2995,8 @@
                 "owner": "Recall-Kitchen",
                 "repo": "rk-mcp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2834,7 +3011,8 @@
                 "owner": "dimitrilaouanis-tech",
                 "repo": "onyx-mcp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2845,11 +3023,12 @@
                 "archived": false,
                 "id": 1194791900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T06:50:27Z",
+                "last_commit": "2026-08-28T14:20:57Z",
                 "owner": "RipperMercs",
                 "repo": "tensorfeed",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2860,11 +3039,12 @@
                 "archived": false,
                 "id": 1194791900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T06:50:27Z",
+                "last_commit": "2026-08-28T14:20:57Z",
                 "owner": "RipperMercs",
                 "repo": "tensorfeed",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2879,7 +3059,8 @@
                 "owner": "presidio-v",
                 "repo": "presidio-hardened-x402-mcp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2894,7 +3075,8 @@
                 "owner": "thereal-baitjet",
                 "repo": "santos-audit-api",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2909,7 +3091,8 @@
                 "owner": "Coinyak",
                 "repo": "onchainai",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2924,7 +3107,8 @@
                 "owner": "VGSTAAD",
                 "repo": "vongstaad-x402-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2939,7 +3123,8 @@
                 "owner": "joelklabo",
                 "repo": "maximumsats-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2954,7 +3139,8 @@
                 "owner": "pylonapi",
                 "repo": "pylon-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2969,7 +3155,8 @@
                 "owner": "fredpsantos33",
                 "repo": "mcp-iteratools",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2984,7 +3171,8 @@
                 "owner": "bartonguestier1725-collab",
                 "repo": "scout-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -2999,7 +3187,8 @@
                 "owner": "codex-curator",
                 "repo": "intelligence-aeternum-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3014,7 +3203,8 @@
                 "owner": "eyloni",
                 "repo": "pythia-oracle",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3029,7 +3219,8 @@
                 "owner": "entroute",
                 "repo": "mcp-server",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3044,7 +3235,8 @@
                 "owner": "getgapup",
                 "repo": "gapup-mcp-public",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3059,7 +3251,8 @@
                 "owner": "AgentTools-Cloud",
                 "repo": "AgentToolsCollection",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3074,7 +3267,8 @@
                 "owner": "meltingpixelsai",
                 "repo": "zero-core-intel",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3089,7 +3283,8 @@
                 "owner": "meltingpixelsai",
                 "repo": "zero-core-verify",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3104,7 +3299,8 @@
                 "owner": "meltingpixelsai",
                 "repo": "zero-core-budget",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3119,7 +3315,8 @@
                 "owner": "RBKunnela",
                 "repo": "paybot-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3130,11 +3327,12 @@
                 "archived": false,
                 "id": 1172591738,
                 "language": "Python",
-                "last_commit": "2026-04-18T11:45:29Z",
+                "last_commit": "2026-08-28T20:54:58Z",
                 "owner": "0xsl1m",
                 "repo": "cerebrus-pulse-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3149,7 +3347,8 @@
                 "owner": "Cyberweasel777",
                 "repo": "botindex-mcp-server",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3164,7 +3363,8 @@
                 "owner": "michu5696",
                 "repo": "paycrow",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3179,7 +3379,8 @@
                 "owner": "jiayuanliang0716-max",
                 "repo": "arbitova-x402-example",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3194,7 +3395,8 @@
                 "owner": "agentc221",
                 "repo": "x402-engine",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3209,7 +3411,8 @@
                 "owner": "hypeprinter007-stack",
                 "repo": "anchor-x402-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3224,7 +3427,8 @@
                 "owner": "0rkz",
                 "repo": "byte-mcp-server",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3239,7 +3443,8 @@
                 "owner": "fiatdock",
                 "repo": "fiatdock",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3254,7 +3459,8 @@
                 "owner": "Rotwang9000",
                 "repo": "seneschal-data-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3269,7 +3475,8 @@
                 "owner": "jakemaxsigal-creator",
                 "repo": "base-intel-search-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3284,7 +3491,8 @@
                 "owner": "krakonjac300-pixel",
                 "repo": "agent-media-toolkit-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3299,7 +3507,8 @@
                 "owner": "hyperionxmota",
                 "repo": "cook-county-property-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3314,7 +3523,8 @@
                 "owner": "novadyne-hq",
                 "repo": "ledger-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3329,7 +3539,8 @@
                 "owner": "zkproofport",
                 "repo": "proofport-ai",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3344,7 +3555,8 @@
                 "owner": "sella-network",
                 "repo": "sella-mcp-server",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3362,11 +3574,12 @@
                 "archived": false,
                 "id": 488641606,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:09:33Z",
+                "last_commit": "2026-08-28T22:52:11Z",
                 "owner": "agno-agi",
                 "repo": "agno",
-                "stars": 41945
-              }
+                "stars": 41957
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3377,11 +3590,12 @@
                 "archived": false,
                 "id": 1172886754,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:54:10Z",
+                "last_commit": "2026-08-28T12:44:35Z",
                 "owner": "aeonfun",
                 "repo": "aeon",
-                "stars": 694
-              }
+                "stars": 700
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3396,7 +3610,8 @@
                 "owner": "atxp-dev",
                 "repo": "atxp",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3411,7 +3626,8 @@
                 "owner": "0-Vault",
                 "repo": "Vault-0",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3426,7 +3642,8 @@
                 "owner": "mrocker",
                 "repo": "CardZero",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3447,8 +3664,9 @@
                 "last_commit": "2026-08-04T17:46:39Z",
                 "owner": "google-agentic-commerce",
                 "repo": "a2a-x402",
-                "stars": 554
-              }
+                "stars": 555
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3470,7 +3688,8 @@
                 "owner": "SolTwizzy",
                 "repo": "swarms-x402",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3488,11 +3707,12 @@
                 "archived": false,
                 "id": 1248111245,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:12:40Z",
+                "last_commit": "2026-08-28T23:08:02Z",
                 "owner": "Daisuke134",
                 "repo": "life-manager",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3518,7 +3738,8 @@
             "owner": "cinderwright-ai",
             "repo": "cinderwright-api",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -3533,7 +3754,8 @@
             "owner": "JasonCZMeng",
             "repo": "assay",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -3550,7 +3772,8 @@
                 "owner": "cascade-protocol",
                 "repo": "x402-proxy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3565,7 +3788,8 @@
                 "owner": "fardinvahdat",
                 "repo": "x402trace",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3587,7 +3811,8 @@
                 "owner": "pando-b",
                 "repo": "paybound",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3602,7 +3827,8 @@
                 "owner": "giskard09",
                 "repo": "giskard-stack",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3617,7 +3843,8 @@
                 "owner": "SolTwizzy",
                 "repo": "swarms-x402",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3628,11 +3855,12 @@
                 "archived": false,
                 "id": 1307977481,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:30:51Z",
+                "last_commit": "2026-08-28T17:03:41Z",
                 "owner": "tersignhq",
                 "repo": "evidence-record-conformance",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3650,11 +3878,12 @@
                 "archived": false,
                 "id": 1242296232,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:21:27Z",
+                "last_commit": "2026-08-28T18:55:37Z",
                 "owner": "smartflowproai-lang",
                 "repo": "x402-endpoint-validator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3669,7 +3898,8 @@
                 "owner": "TerminallyLazy",
                 "repo": "sentinel-recovery-support",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3695,7 +3925,8 @@
             "owner": "agentIgris",
             "repo": "AgentFund",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -3710,7 +3941,8 @@
             "owner": "fundchainteam",
             "repo": "fundchain-mcp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -3723,11 +3955,12 @@
                 "archived": false,
                 "id": 970157421,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:08:48Z",
+                "last_commit": "2026-08-28T16:39:29Z",
                 "owner": "Scottcjn",
                 "repo": "Rustchain",
-                "stars": 724
-              }
+                "stars": 728
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3742,7 +3975,8 @@
                 "owner": "Yaqing2023",
                 "repo": "moltspay",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3757,7 +3991,8 @@
                 "owner": "entroute",
                 "repo": "mcp-server",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3772,7 +4007,8 @@
                 "owner": "MavenRain",
                 "repo": "goldilocks-ntt-hdl-x402",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3783,11 +4019,12 @@
                 "archived": false,
                 "id": 1216511518,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:06:20Z",
+                "last_commit": "2026-08-28T01:48:10Z",
                 "owner": "bolyra",
                 "repo": "bolyra",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -3805,11 +4042,12 @@
                 "archived": false,
                 "id": 1097346685,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:08:18Z",
+                "last_commit": "2026-08-28T23:07:28Z",
                 "owner": "pbakaus",
                 "repo": "impeccable",
-                "stars": 63291
-              }
+                "stars": 63601
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3824,7 +4062,8 @@
                 "owner": "kartojal",
                 "repo": "openvps",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3839,7 +4078,8 @@
                 "owner": "AetherCore-Dev",
                 "repo": "ag402",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3854,7 +4094,8 @@
                 "owner": "clankwright",
                 "repo": "satring",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3869,7 +4110,8 @@
                 "owner": "coinnect-dev",
                 "repo": "coinnect",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3884,7 +4126,8 @@
                 "owner": "PreReason",
                 "repo": "mcp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3899,7 +4142,8 @@
                 "owner": "cinderwright-ai",
                 "repo": "cinderwright-api",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3914,7 +4158,8 @@
                 "owner": "pvega23",
                 "repo": "askclaude-mcp",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3929,7 +4174,8 @@
                 "owner": "manavaga",
                 "repo": "web3-signals-mcp",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3944,7 +4190,24 @@
                 "owner": "Wintyx57",
                 "repo": "x402-backend",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
+            },
+            {
+              "node_type": "item",
+              "title": "KR Crypto Intelligence",
+              "description": "Korean crypto market data API with 11 paid endpoints: real-time Kimchi Premium across 180+ tokens, Upbit/Bithumb prices, AI-powered Korean sentiment analysis (world's first), Global vs Korea divergence with structured AI breakdown, market alerts. $0.001-$0.10 USDC per call on Base, Polygon, and Solana. Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1195763400,
+                "language": "Python",
+                "last_commit": "2026-08-04T05:58:57Z",
+                "owner": "bakyang2",
+                "repo": "kr-crypto-intelligence",
+                "stars": 2
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3959,7 +4222,8 @@
                 "owner": "wuzenghai616-lang",
                 "repo": "goldbean",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3974,7 +4238,8 @@
                 "owner": "williamselmo1993",
                 "repo": "x402-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -3989,22 +4254,8 @@
                 "owner": "pylonapi",
                 "repo": "pylon-mcp",
                 "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "KR Crypto Intelligence",
-              "description": "Korean crypto market data API with 11 paid endpoints: real-time Kimchi Premium across 180+ tokens, Upbit/Bithumb prices, AI-powered Korean sentiment analysis (world's first), Global vs Korea divergence with structured AI breakdown, market alerts. $0.001-$0.10 USDC per call on Base, Polygon, and Solana. Source",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1195763400,
-                "language": "Python",
-                "last_commit": "2026-08-04T05:58:57Z",
-                "owner": "bakyang2",
-                "repo": "kr-crypto-intelligence",
-                "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4019,7 +4270,8 @@
                 "owner": "fatihdagustu20-hub",
                 "repo": "x402-api-network",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4034,7 +4286,8 @@
                 "owner": "dTelecom",
                 "repo": "stt-client-python",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4049,7 +4302,8 @@
                 "owner": "rplryan",
                 "repo": "x402-routenet",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "group",
@@ -4065,11 +4319,12 @@
                     "archived": false,
                     "id": 1152521266,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T22:45:53Z",
+                    "last_commit": "2026-08-28T02:53:39Z",
                     "owner": "bnmbnmai",
                     "repo": "mcp-proxy",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:32.531Z"
                 }
               ]
             },
@@ -4086,7 +4341,8 @@
                 "owner": "Br0ski777",
                 "repo": "x402-agent-tools",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4097,11 +4353,12 @@
                 "archived": false,
                 "id": 1176569250,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T12:57:02Z",
+                "last_commit": "2026-08-28T10:29:23Z",
                 "owner": "whiteknightonhorse",
                 "repo": "APIbase",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4116,7 +4373,8 @@
                 "owner": "mbeato",
                 "repo": "APIMesh",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4131,7 +4389,8 @@
                 "owner": "lordbasilaiassistant-sudo",
                 "repo": "x402-wiki",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4146,7 +4405,8 @@
                 "owner": "Sou0327",
                 "repo": "knowmint",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4157,11 +4417,12 @@
                 "archived": false,
                 "id": 1182674240,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:19:18Z",
+                "last_commit": "2026-08-28T14:55:14Z",
                 "owner": "romudille-bit",
                 "repo": "agentpay",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4172,11 +4433,12 @@
                 "archived": false,
                 "id": 1198741568,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:47:28Z",
+                "last_commit": "2026-08-28T05:10:23Z",
                 "owner": "cammac-creator",
                 "repo": "ibanforge",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4191,7 +4453,8 @@
                 "owner": "teodorofodocrispin-cmyk",
                 "repo": "trustboost-api",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4206,7 +4469,8 @@
                 "owner": "DrGalio",
                 "repo": "demaciains-paywall",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4221,7 +4485,8 @@
                 "owner": "TKtokyo",
                 "repo": "token-intel-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4236,7 +4501,8 @@
                 "owner": "cognoco",
                 "repo": "enrichapi",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4251,7 +4517,8 @@
                 "owner": "TKtokyo",
                 "repo": "polymarket-liquidity-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4266,7 +4533,8 @@
                 "owner": "TKtokyo",
                 "repo": "polymarket-scan-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4281,7 +4549,8 @@
                 "owner": "alberthild",
                 "repo": "shieldapi-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4296,7 +4565,8 @@
                 "owner": "baitoxkevin",
                 "repo": "kevinbot-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4311,7 +4581,8 @@
                 "owner": "Cyberweasel777",
                 "repo": "King-Backend",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4326,7 +4597,8 @@
                 "owner": "Convrgent",
                 "repo": "aeo-scanner-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4341,7 +4613,8 @@
                 "owner": "zse4321",
                 "repo": "decision-anchor-sdk",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4356,7 +4629,8 @@
                 "owner": "jnilrac",
                 "repo": "secant-agent-research-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4371,7 +4645,8 @@
                 "owner": "daedalusdevelopmentgroup",
                 "repo": "ddg-agent-payable-services",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4386,7 +4661,8 @@
                 "owner": "imyoungjae",
                 "repo": "bountysignal",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4401,7 +4677,8 @@
                 "owner": "jdhart81",
                 "repo": "viridis-agent-fleet",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4423,7 +4700,8 @@
                 "owner": "dvd90",
                 "repo": "repo-pulse",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4445,7 +4723,8 @@
                 "owner": "allscale-io",
                 "repo": "x402charity",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4460,7 +4739,8 @@
                 "owner": "allscale-io",
                 "repo": "x402charity",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4482,7 +4762,8 @@
                 "owner": "h1-hunt",
                 "repo": "signet-client",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4497,7 +4778,8 @@
                 "owner": "clicks-protocol",
                 "repo": "clicks-protocol",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4512,7 +4794,8 @@
                 "owner": "xuansun",
                 "repo": "token-risk-scanner",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4527,7 +4810,8 @@
                 "owner": "paladinfi",
                 "repo": "paladin-swap-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4549,7 +4833,8 @@
                 "owner": "TateLyman",
                 "repo": "x402-surface-check",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4564,7 +4849,8 @@
                 "owner": "TateLyman",
                 "repo": "x402-triage-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4579,7 +4865,8 @@
                 "owner": "cristianmoroaica",
                 "repo": "bountyverdict",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4601,11 +4888,12 @@
             "archived": false,
             "id": 1246085180,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T04:48:41Z",
+            "last_commit": "2026-08-28T16:31:22Z",
             "owner": "bluetieroperations-create",
             "repo": "blackwall-mcp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4620,7 +4908,8 @@
             "owner": "sukrutkrdg",
             "repo": "warden402.xyz",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -4633,11 +4922,12 @@
                 "archived": false,
                 "id": 1306078549,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T10:58:27Z",
+                "last_commit": "2026-08-28T17:51:04Z",
                 "owner": "holistis",
                 "repo": "bug-bounty-intelligence-mcp",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4659,7 +4949,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4681,7 +4972,8 @@
                 "owner": "coinbase",
                 "repo": "x402",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4703,7 +4995,8 @@
                 "owner": "mkmkkkkk",
                 "repo": "paysentry",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4718,7 +5011,8 @@
                 "owner": "sF1nX",
                 "repo": "x402-signals",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             },
             {
               "node_type": "item",
@@ -4733,7 +5027,8 @@
                 "owner": "novadyne-hq",
                 "repo": "vulnfeed-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4742,6 +5037,22 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "IntentFence",
+              "description": "Pre-action policy gate for AI agents with REST, MCP, and A2A interfaces, x402 payments on Base, and signed ES256 decision receipts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1299617291,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T19:21:59Z",
+                "owner": "razel369",
+                "repo": "intentfence",
+                "stars": 2
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
+            },
             {
               "node_type": "item",
               "title": "Paybound",
@@ -4755,22 +5066,8 @@
                 "owner": "pando-b",
                 "repo": "paybound",
                 "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "IntentFence",
-              "description": "Pre-action policy gate for AI agents with REST, MCP, and A2A interfaces, x402 payments on Base, and signed ES256 decision receipts.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1299617291,
-                "language": "TypeScript",
-                "last_commit": "2026-07-30T19:21:59Z",
-                "owner": "razel369",
-                "repo": "intentfence",
-                "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": null,
@@ -4795,8 +5092,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500529
-          }
+            "stars": 500846
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4810,8 +5108,9 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7091
-          }
+            "stars": 7092
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4826,7 +5125,8 @@
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
             "stars": 3628
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4841,7 +5141,8 @@
             "owner": "ahmet",
             "repo": "awesome-web3",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4856,7 +5157,8 @@
             "owner": "ttumiel",
             "repo": "Awesome-Ethereum",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4867,11 +5169,12 @@
             "archived": false,
             "id": 1148550616,
             "language": "Dockerfile",
-            "last_commit": "2026-08-19T17:39:09Z",
+            "last_commit": "2026-08-28T04:18:20Z",
             "owner": "eltociear",
             "repo": "awesome-molt-ecosystem",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4882,11 +5185,12 @@
             "archived": false,
             "id": 1197663348,
             "language": "Python",
-            "last_commit": "2026-08-27T12:42:33Z",
+            "last_commit": "2026-08-28T12:26:58Z",
             "owner": "Haustorium12",
             "repo": "gold-402",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "node_type": "item",
@@ -4901,7 +5205,8 @@
             "owner": "OGCryptoKitty",
             "repo": "hydra-arm3",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.531Z"
         },
         {
           "children": [
@@ -4918,7 +5223,8 @@
                 "owner": "ChrisDover",
                 "repo": "mako-verifier",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.531Z"
             }
           ],
           "description": "Category: Services/Endpoints\nAn AI agent that runs as its own business on Base mainnet — sells 22 paid HTTP endpoints behind x402, self-extends at runtime by hot-reloading new endpoints from JS plugin files (fs.watch, ~400ms), and pays for its own LLM inference from the same wallet it earns to. Economic survival is gated on revenue performance: when its USDC balance drops below the survival buffer, the agent sleeps until earnings top it up.\nLive discovery (try without paying):\nNotable paid endpoints:\nWallet (pay-to): on Base mainnet Demo video (1:50): https://youtu.be/v8xL53fo8Q4",
@@ -4930,7 +5236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:38.019Z",
+    "last_updated": "2026-08-28T23:13:32.531Z",
     "original_repository_info": {
       "archived": false,
       "id": 1088095777,
